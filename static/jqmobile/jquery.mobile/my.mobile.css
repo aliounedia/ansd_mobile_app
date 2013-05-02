@@ -1,0 +1,19 @@
+/*@media only screen and (-webkit-min-device-pixel-ratio: 2) {
+.ui-icon-funny {
+background-image: url(logo_test.PNG);
+background-size: 18px 18px;
+} 
+}
+*/
+
+
+
+.ui-icon-funny  {
+	background: 						#666;
+	background: 						rgba(0,0,0,.4);
+	background-image: url(logo_test.PNG);
+	background-repeat: no-repeat;
+	-moz-border-radius: 				9px;
+	-webkit-border-radius: 				9px;
+	border-radius: 						9px;
+}

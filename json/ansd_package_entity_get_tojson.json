@@ -1,0 +1,4803 @@
+[
+    {
+        "author": "", 
+        "author_email": "", 
+        "ckan_url": "http://thedatahub.org/dataset/rapport-d-activit-s-ansd-2010", 
+        "download_url": "http://www.ansd.sn/intitutionnel/RAP_ANSD_2010.pdf", 
+        "extras": {}, 
+        "groups": [
+            "country-sn"
+        ], 
+        "id": "63533a30-64cf-4f6a-9fc1-6d2202c0b0e9", 
+        "isopen": false, 
+        "license": null, 
+        "license_id": "", 
+        "license_title": "", 
+        "maintainer": "", 
+        "maintainer_email": "", 
+        "metadata_created": "2013-03-29T10:31:23.245767", 
+        "metadata_modified": "2013-04-07T17:12:42.077232", 
+        "name": "rapport-d-activit-s-ansd-2010", 
+        "notes": "", 
+        "notes_rendered": "", 
+        "ratings_average": null, 
+        "ratings_count": 0, 
+        "relationships": [], 
+        "resources": [
+            {
+                "cache_last_updated": null, 
+                "cache_url": "", 
+                "created": "2013-03-29T05:31:23.623969", 
+                "description": "", 
+                "format": "", 
+                "hash": "", 
+                "id": "79a6da1b-c099-4298-9760-a0bd872db69f", 
+                "last_modified": "2013-03-29T05:31:26.053548", 
+                "mimetype": "application/pdf", 
+                "mimetype_inner": "", 
+                "name": "", 
+                "package_id": "63533a30-64cf-4f6a-9fc1-6d2202c0b0e9", 
+                "position": 0, 
+                "resource_group_id": "f9624cf6-c3a8-452d-92d1-bfe099db28ae", 
+                "resource_type": "", 
+                "size": "1142646", 
+                "tracking_summary": {
+                    "recent": 0, 
+                    "total": 0
+                }, 
+                "url": "http://www.ansd.sn/intitutionnel/RAP_ANSD_2010.pdf", 
+                "webstore_last_updated": null, 
+                "webstore_url": ""
+            }
+        ], 
+        "revision_id": "d6602807-6ba8-4ca9-964f-57e57bb0efad", 
+        "state": "active", 
+        "tags": [
+            "ANSD", 
+            "Senegal", 
+            "donnees", 
+            "menages", 
+            "publications"
+        ], 
+        "title": "Rapport d'activit\u00e9s ANSD 2010", 
+        "tracking_summary": {
+            "recent": 0, 
+            "total": 0
+        }, 
+        "type": null, 
+        "url": "http://www.ansd.sn/intitutionnel/RAP_ANSD_2010.pdf", 
+        "version": ""
+    }, 
+    {
+        "author": "", 
+        "author_email": "", 
+        "ckan_url": "http://thedatahub.org/dataset/enqu-te-sur-les-priorit-s", 
+        "download_url": "http://www.ansd.sn/publications/rapports_enquetes_etudes/enquetes/Rapport_ESP.pdf", 
+        "extras": {}, 
+        "groups": [
+            "country-sn"
+        ], 
+        "id": "a5757a54-9e45-4307-8df9-5752f95f7153", 
+        "isopen": false, 
+        "license": null, 
+        "license_id": "", 
+        "license_title": "", 
+        "maintainer": "", 
+        "maintainer_email": "", 
+        "metadata_created": "2013-03-28T21:37:54.025648", 
+        "metadata_modified": "2013-04-09T10:40:50.973760", 
+        "name": "enqu-te-sur-les-priorit-s", 
+        "notes": "\f\f", 
+        "notes_rendered": "", 
+        "ratings_average": null, 
+        "ratings_count": 0, 
+        "relationships": [], 
+        "resources": [
+            {
+                "cache_last_updated": null, 
+                "cache_url": "", 
+                "created": "2013-03-28T16:37:54.095405", 
+                "description": "", 
+                "format": "", 
+                "hash": "", 
+                "id": "4707c3d2-dcd3-42be-b2b3-d0b5686f889f", 
+                "last_modified": "2013-03-28T16:39:07.212233", 
+                "mimetype": "application/pdf", 
+                "mimetype_inner": "", 
+                "name": "", 
+                "package_id": "a5757a54-9e45-4307-8df9-5752f95f7153", 
+                "position": 0, 
+                "resource_group_id": "8b10ec56-07dc-4fd8-af58-9c92051f4b6a", 
+                "resource_type": "", 
+                "size": "3628676", 
+                "tracking_summary": {
+                    "recent": 0, 
+                    "total": 0
+                }, 
+                "url": "http://www.ansd.sn/publications/rapports_enquetes_etudes/enquetes/Rapport_ESP.pdf", 
+                "webstore_last_updated": null, 
+                "webstore_url": ""
+            }
+        ], 
+        "revision_id": "00d96184-cc6d-4232-8dcd-c91f23781c22", 
+        "state": "active", 
+        "tags": [
+            "ANSD", 
+            "Senegal", 
+            "donnees", 
+            "menages", 
+            "publications"
+        ], 
+        "title": "Enqu\u00eate sur les priorit\u00e9s", 
+        "tracking_summary": {
+            "recent": 0, 
+            "total": 0
+        }, 
+        "type": null, 
+        "url": "http://www.ansd.sn/publications/rapports_enquetes_etudes/enquetes/Rapport_ESP.pdf", 
+        "version": ""
+    }, 
+    {
+        "author": "", 
+        "author_email": "", 
+        "ckan_url": "http://thedatahub.org/dataset/rep-re-statistiques-ao-t-2012", 
+        "download_url": "http://www.ansd.sn/publications/conjoncturelles/ReperStat/ReperStat_08_12.pdf", 
+        "extras": {}, 
+        "groups": [
+            "country-sn"
+        ], 
+        "id": "eeeafd1b-e4bd-4090-bbf3-41d80dfa9c9f", 
+        "isopen": false, 
+        "license": null, 
+        "license_id": "", 
+        "license_title": "", 
+        "maintainer": "", 
+        "maintainer_email": "", 
+        "metadata_created": "2013-03-29T10:15:48.601063", 
+        "metadata_modified": "2013-04-10T11:13:02.228370", 
+        "name": "rep-re-statistiques-ao-t-2012", 
+        "notes": "", 
+        "notes_rendered": "", 
+        "ratings_average": null, 
+        "ratings_count": 0, 
+        "relationships": [], 
+        "resources": [
+            {
+                "cache_last_updated": null, 
+                "cache_url": "", 
+                "created": "2013-03-29T05:15:48.800605", 
+                "description": "", 
+                "format": "", 
+                "hash": "", 
+                "id": "9b22b55f-b11c-4bb0-b832-7d00232142a1", 
+                "last_modified": "2013-03-29T05:15:53.600740", 
+                "mimetype": "application/pdf", 
+                "mimetype_inner": "", 
+                "name": "", 
+                "package_id": "eeeafd1b-e4bd-4090-bbf3-41d80dfa9c9f", 
+                "position": 0, 
+                "resource_group_id": "8cb533b7-be66-4355-85d5-f4d1b5fdc95b", 
+                "resource_type": "", 
+                "size": "600803", 
+                "tracking_summary": {
+                    "recent": 0, 
+                    "total": 0
+                }, 
+                "url": "http://www.ansd.sn/publications/conjoncturelles/ReperStat/ReperStat_08_12.pdf", 
+                "webstore_last_updated": null, 
+                "webstore_url": ""
+            }
+        ], 
+        "revision_id": "5058ba78-02d6-4022-9f1d-9d0e92fc98a4", 
+        "state": "active", 
+        "tags": [
+            "ANSD", 
+            "Senegal", 
+            "donnees", 
+            "menages", 
+            "publications"
+        ], 
+        "title": "Rep\u00e8re Statistiques Ao\u00fbt 2012", 
+        "tracking_summary": {
+            "recent": 0, 
+            "total": 0
+        }, 
+        "type": null, 
+        "url": "http://www.ansd.sn/publications/conjoncturelles/ReperStat/ReperStat_08_12.pdf", 
+        "version": ""
+    }, 
+    {
+        "author": "", 
+        "author_email": "", 
+        "ckan_url": "http://thedatahub.org/dataset/rep-re-statistiques-janvier-2011", 
+        "download_url": "http://www.ansd.sn/publications/conjoncturelles/ReperStat/ReperStat_01_11.pdf", 
+        "extras": {}, 
+        "groups": [
+            "country-sn"
+        ], 
+        "id": "9c652595-773b-4eaa-a011-ae24c2eede47", 
+        "isopen": false, 
+        "license": null, 
+        "license_id": "", 
+        "license_title": "", 
+        "maintainer": "", 
+        "maintainer_email": "", 
+        "metadata_created": "2013-03-29T10:18:04.556422", 
+        "metadata_modified": "2013-04-15T11:16:01.785068", 
+        "name": "rep-re-statistiques-janvier-2011", 
+        "notes": "", 
+        "notes_rendered": "", 
+        "ratings_average": null, 
+        "ratings_count": 0, 
+        "relationships": [], 
+        "resources": [
+            {
+                "cache_last_updated": null, 
+                "cache_url": "", 
+                "created": "2013-03-29T05:18:04.793490", 
+                "description": "", 
+                "format": "", 
+                "hash": "", 
+                "id": "017d4af0-6e06-4ab1-b21d-fb41382e5efc", 
+                "last_modified": "2013-03-29T05:18:06.276470", 
+                "mimetype": "application/pdf", 
+                "mimetype_inner": "", 
+                "name": "", 
+                "package_id": "9c652595-773b-4eaa-a011-ae24c2eede47", 
+                "position": 0, 
+                "resource_group_id": "f9f2427d-7d76-45f2-8d4f-670d6756f69d", 
+                "resource_type": "", 
+                "size": "202504", 
+                "tracking_summary": {
+                    "recent": 0, 
+                    "total": 0
+                }, 
+                "url": "http://www.ansd.sn/publications/conjoncturelles/ReperStat/ReperStat_01_11.pdf", 
+                "webstore_last_updated": null, 
+                "webstore_url": ""
+            }
+        ], 
+        "revision_id": "dfa17e3a-d8d2-456d-aba5-5d5abbb1c970", 
+        "state": "active", 
+        "tags": [
+            "ANSD", 
+            "Senegal", 
+            "donnees", 
+            "menages", 
+            "publications"
+        ], 
+        "title": "Rep\u00e8re Statistiques Janvier 2011", 
+        "tracking_summary": {
+            "recent": 0, 
+            "total": 0
+        }, 
+        "type": null, 
+        "url": "http://www.ansd.sn/publications/conjoncturelles/ReperStat/ReperStat_01_11.pdf", 
+        "version": ""
+    }, 
+    {
+        "author": "", 
+        "author_email": "", 
+        "ckan_url": "http://thedatahub.org/dataset/rep-re-statistiques-janvier-2012", 
+        "download_url": "http://www.ansd.sn/publications/conjoncturelles/ReperStat/ReperStat_01_12.pdf", 
+        "extras": {}, 
+        "groups": [
+            "country-sn"
+        ], 
+        "id": "b2e5ec1a-5818-4c89-8739-f6ece9d478cf", 
+        "isopen": false, 
+        "license": null, 
+        "license_id": "", 
+        "license_title": "", 
+        "maintainer": "", 
+        "maintainer_email": "", 
+        "metadata_created": "2013-03-29T10:17:07.787491", 
+        "metadata_modified": "2013-05-02T18:56:18.799290", 
+        "name": "rep-re-statistiques-janvier-2012", 
+        "notes": "", 
+        "notes_rendered": "", 
+        "ratings_average": null, 
+        "ratings_count": 0, 
+        "relationships": [], 
+        "resources": [
+            {
+                "cache_last_updated": null, 
+                "cache_url": "", 
+                "created": "2013-03-29T05:17:07.948745", 
+                "description": "", 
+                "format": "", 
+                "hash": "", 
+                "id": "a621d33f-d18e-475d-9606-b1f2fc1e423a", 
+                "last_modified": "2013-03-29T05:17:11.777571", 
+                "mimetype": "application/pdf", 
+                "mimetype_inner": "", 
+                "name": "", 
+                "package_id": "b2e5ec1a-5818-4c89-8739-f6ece9d478cf", 
+                "position": 0, 
+                "resource_group_id": "50c0f488-4ea4-4958-88f5-5fa71c3df992", 
+                "resource_type": "file", 
+                "size": "197902", 
+                "tracking_summary": {
+                    "recent": 0, 
+                    "total": 0
+                }, 
+                "url": "http://www.ansd.sn/publications/conjoncturelles/ReperStat/ReperStat_01_12.pdf", 
+                "webstore_last_updated": null, 
+                "webstore_url": ""
+            }, 
+            {
+                "cache_last_updated": null, 
+                "cache_url": null, 
+                "cache_url_updated": "2013-05-02T18:56:05", 
+                "created": "2013-05-02T13:56:16.890972", 
+                "description": "", 
+                "format": "application/vnd.ms-excel", 
+                "hash": "5acfa9652dfadecb129ddaf36e1120715919e84f", 
+                "id": "a7da5582-fd8b-419d-8916-01cfd124939a", 
+                "last_modified": "2013-05-02T13:56:18.635156", 
+                "mimetype": "application/vnd.ms-excel", 
+                "mimetype_inner": "", 
+                "name": "2013-05-02T185247/Valeurs_ajoutees_par_branches_dactivites_aux_prix_constants_de_1999_en_milliards_FCFA).csv", 
+                "owner": "f2aad7a3-0ad2-4ef9-8931-0277987525e9", 
+                "package_id": "b2e5ec1a-5818-4c89-8739-f6ece9d478cf", 
+                "position": 1, 
+                "resource_group_id": "50c0f488-4ea4-4958-88f5-5fa71c3df992", 
+                "resource_type": "file.upload", 
+                "size": "506", 
+                "tracking_summary": {
+                    "recent": 0, 
+                    "total": 0
+                }, 
+                "url": "https://ckannet-storage.commondatastorage.googleapis.com/2013-05-02T185247/Valeurs_ajoutees_par_branches_dactivites_aux_prix_constants_de_1999_en_milliards_FCFA).csv", 
+                "webstore_last_updated": null, 
+                "webstore_url": null
+            }
+        ], 
+        "revision_id": "1544913a-8099-49a1-92ab-3d5d1e8dd239", 
+        "state": "active", 
+        "tags": [
+            "ANSD", 
+            "Senegal", 
+            "donnees", 
+            "menages", 
+            "publications"
+        ], 
+        "title": "Rep\u00e8re Statistiques Janvier 2012", 
+        "tracking_summary": {
+            "recent": 0, 
+            "total": 0
+        }, 
+        "type": null, 
+        "url": "http://www.ansd.sn/publications/conjoncturelles/ReperStat/ReperStat_01_12.pdf", 
+        "version": ""
+    }, 
+    {
+        "author": "", 
+        "author_email": "", 
+        "ckan_url": "http://thedatahub.org/dataset/rep-re-statistiques-novembre-2012", 
+        "download_url": "http://www.ansd.sn/publications/conjoncturelles/ReperStat/ReperStat_11_12.pdf", 
+        "extras": {}, 
+        "groups": [
+            "country-sn"
+        ], 
+        "id": "51736aa8-2020-47fa-8349-3c437ae94407", 
+        "isopen": false, 
+        "license": null, 
+        "license_id": "", 
+        "license_title": "", 
+        "maintainer": "", 
+        "maintainer_email": "", 
+        "metadata_created": "2013-03-28T22:02:00.390831", 
+        "metadata_modified": "2013-04-07T20:38:00.032340", 
+        "name": "rep-re-statistiques-novembre-2012", 
+        "notes": "", 
+        "notes_rendered": "", 
+        "ratings_average": null, 
+        "ratings_count": 0, 
+        "relationships": [], 
+        "resources": [
+            {
+                "cache_last_updated": null, 
+                "cache_url": "", 
+                "created": "2013-03-28T17:02:00.489187", 
+                "description": "", 
+                "format": "", 
+                "hash": "", 
+                "id": "92c48651-00f6-43f7-a6a8-9383ca82ce97", 
+                "last_modified": "2013-03-28T17:05:52.745528", 
+                "mimetype": "application/pdf", 
+                "mimetype_inner": "", 
+                "name": "", 
+                "package_id": "51736aa8-2020-47fa-8349-3c437ae94407", 
+                "position": 0, 
+                "resource_group_id": "866cf8f2-aaef-4ccc-a369-8aa589fb27e4", 
+                "resource_type": "", 
+                "size": "203839", 
+                "tracking_summary": {
+                    "recent": 0, 
+                    "total": 0
+                }, 
+                "url": "http://www.ansd.sn/publications/conjoncturelles/ReperStat/ReperStat_11_12.pdf", 
+                "webstore_last_updated": null, 
+                "webstore_url": ""
+            }
+        ], 
+        "revision_id": "cb59458d-157a-4c2a-8a35-51e54c2b4d87", 
+        "state": "active", 
+        "tags": [
+            "ANSD", 
+            "Senegal", 
+            "donnees", 
+            "menages", 
+            "publications"
+        ], 
+        "title": "Rep\u00e8re Statistiques Novembre 2012", 
+        "tracking_summary": {
+            "recent": 0, 
+            "total": 0
+        }, 
+        "type": null, 
+        "url": "http://www.ansd.sn/publications/conjoncturelles/ReperStat/ReperStat_11_12.pdf", 
+        "version": ""
+    }, 
+    {
+        "author": "", 
+        "author_email": "", 
+        "ckan_url": "http://thedatahub.org/dataset/bulletin-mensuel-des-statistiques-conomiques-janvier-2011", 
+        "download_url": "http://www.ansd.sn/publications/conjoncturelles/bulletin_mens_statistique/BullStat_01_11.pdf", 
+        "extras": {}, 
+        "groups": [
+            "country-sn"
+        ], 
+        "id": "26cb1ba3-ff92-488b-b245-0d31e8d3b46b", 
+        "isopen": false, 
+        "license": null, 
+        "license_id": "", 
+        "license_title": "", 
+        "maintainer": "", 
+        "maintainer_email": "", 
+        "metadata_created": "2013-03-28T22:01:08.528273", 
+        "metadata_modified": "2013-04-24T15:07:21.785869", 
+        "name": "bulletin-mensuel-des-statistiques-conomiques-janvier-2011", 
+        "notes": "", 
+        "notes_rendered": "", 
+        "ratings_average": null, 
+        "ratings_count": 0, 
+        "relationships": [], 
+        "resources": [
+            {
+                "cache_last_updated": null, 
+                "cache_url": "", 
+                "created": "2013-03-28T17:01:08.636328", 
+                "description": "", 
+                "format": "", 
+                "hash": "", 
+                "id": "94828a34-337e-4fdf-b635-04df76325514", 
+                "last_modified": "2013-03-28T17:05:00.532259", 
+                "mimetype": "application/pdf", 
+                "mimetype_inner": "", 
+                "name": "", 
+                "package_id": "26cb1ba3-ff92-488b-b245-0d31e8d3b46b", 
+                "position": 0, 
+                "resource_group_id": "f805fa2f-82e7-4b20-8b4a-babbedbd5e71", 
+                "resource_type": "", 
+                "size": "690808", 
+                "tracking_summary": {
+                    "recent": 0, 
+                    "total": 0
+                }, 
+                "url": "http://www.ansd.sn/publications/conjoncturelles/bulletin_mens_statistique/BullStat_01_11.pdf", 
+                "webstore_last_updated": null, 
+                "webstore_url": ""
+            }
+        ], 
+        "revision_id": "687c1988-aa31-40a4-a546-40ca7e9d2770", 
+        "state": "active", 
+        "tags": [
+            "ANSD", 
+            "Senegal", 
+            "donnees", 
+            "menages", 
+            "publications"
+        ], 
+        "title": "Bulletin Mensuel des Statistiques \u00c9conomiques Janvier 2011", 
+        "tracking_summary": {
+            "recent": 0, 
+            "total": 0
+        }, 
+        "type": null, 
+        "url": "http://www.ansd.sn/publications/conjoncturelles/bulletin_mens_statistique/BullStat_01_11.pdf", 
+        "version": ""
+    }, 
+    {
+        "author": "", 
+        "author_email": "", 
+        "ckan_url": "http://thedatahub.org/dataset/bulletin-mensuel-des-statistiques-conomiques-janvier-2012", 
+        "download_url": "http://www.ansd.sn/publications/conjoncturelles/bulletin_mens_statistique/BullStat_01_12.pdf", 
+        "extras": {}, 
+        "groups": [
+            "country-sn"
+        ], 
+        "id": "07293ebc-385a-44fe-b3b3-8d74ce5d4d4b", 
+        "isopen": false, 
+        "license": null, 
+        "license_id": "", 
+        "license_title": "", 
+        "maintainer": "", 
+        "maintainer_email": "", 
+        "metadata_created": "2013-03-28T22:00:35.369127", 
+        "metadata_modified": "2013-04-24T15:08:02.104375", 
+        "name": "bulletin-mensuel-des-statistiques-conomiques-janvier-2012", 
+        "notes": "", 
+        "notes_rendered": "", 
+        "ratings_average": null, 
+        "ratings_count": 0, 
+        "relationships": [], 
+        "resources": [
+            {
+                "cache_last_updated": null, 
+                "cache_url": "", 
+                "created": "2013-03-28T17:00:35.539334", 
+                "description": "", 
+                "format": "", 
+                "hash": "", 
+                "id": "02a4ce1e-3a86-412f-871e-d9025d8a8595", 
+                "last_modified": "2013-03-28T17:04:32.129739", 
+                "mimetype": "application/pdf", 
+                "mimetype_inner": "", 
+                "name": "", 
+                "package_id": "07293ebc-385a-44fe-b3b3-8d74ce5d4d4b", 
+                "position": 0, 
+                "resource_group_id": "86a3c36e-743d-4838-b955-0e5abd169d50", 
+                "resource_type": "", 
+                "size": "744986", 
+                "tracking_summary": {
+                    "recent": 0, 
+                    "total": 0
+                }, 
+                "url": "http://www.ansd.sn/publications/conjoncturelles/bulletin_mens_statistique/BullStat_01_12.pdf", 
+                "webstore_last_updated": null, 
+                "webstore_url": ""
+            }
+        ], 
+        "revision_id": "9217eab2-b80e-4835-9d82-291ab41da12b", 
+        "state": "active", 
+        "tags": [
+            "ANSD", 
+            "Senegal", 
+            "donnees", 
+            "menages", 
+            "publications"
+        ], 
+        "title": "Bulletin Mensuel des Statistiques \u00c9conomiques Janvier 2012", 
+        "tracking_summary": {
+            "recent": 0, 
+            "total": 0
+        }, 
+        "type": null, 
+        "url": "http://www.ansd.sn/publications/conjoncturelles/bulletin_mens_statistique/BullStat_01_12.pdf", 
+        "version": ""
+    }, 
+    {
+        "author": "", 
+        "author_email": "", 
+        "ckan_url": "http://thedatahub.org/dataset/indice-harmonis-de-la-production-industrielle-ihpi-ao-t-2011", 
+        "download_url": "http://www.ansd.sn/publications/conjoncturelles/IHPI/mensuelle/IHPI_08_11.pdf", 
+        "extras": {}, 
+        "groups": [
+            "country-sn"
+        ], 
+        "id": "d4658b23-fb53-48e2-adab-d2da5adfee10", 
+        "isopen": false, 
+        "license": null, 
+        "license_id": "", 
+        "license_title": "", 
+        "maintainer": "", 
+        "maintainer_email": "", 
+        "metadata_created": "2013-03-28T21:44:26.683750", 
+        "metadata_modified": "2013-04-18T15:36:21.793340", 
+        "name": "indice-harmonis-de-la-production-industrielle-ihpi-ao-t-2011", 
+        "notes": "", 
+        "notes_rendered": "", 
+        "ratings_average": null, 
+        "ratings_count": 0, 
+        "relationships": [], 
+        "resources": [
+            {
+                "cache_last_updated": null, 
+                "cache_url": "", 
+                "created": "2013-03-28T16:44:26.767362", 
+                "description": "", 
+                "format": "", 
+                "hash": "", 
+                "id": "b65d547f-73de-45e4-9ed2-4c834db224a9", 
+                "last_modified": "2013-03-28T16:46:33.452479", 
+                "mimetype": "application/pdf", 
+                "mimetype_inner": "", 
+                "name": "", 
+                "package_id": "d4658b23-fb53-48e2-adab-d2da5adfee10", 
+                "position": 0, 
+                "resource_group_id": "5ddf25e6-a702-4af0-8c95-47fe56b4ce0a", 
+                "resource_type": "", 
+                "size": "456087", 
+                "tracking_summary": {
+                    "recent": 0, 
+                    "total": 0
+                }, 
+                "url": "http://www.ansd.sn/publications/conjoncturelles/IHPI/mensuelle/IHPI_08_11.pdf", 
+                "webstore_last_updated": null, 
+                "webstore_url": ""
+            }
+        ], 
+        "revision_id": "a7d080f9-5717-495e-817f-660b2c68635f", 
+        "state": "active", 
+        "tags": [
+            "ANSD", 
+            "Senegal", 
+            "donnees", 
+            "menages", 
+            "publications"
+        ], 
+        "title": "Indice Harmonis\u00e9 de la Production Industrielle (IHPI) Ao\u00fbt 2011", 
+        "tracking_summary": {
+            "recent": 0, 
+            "total": 0
+        }, 
+        "type": null, 
+        "url": "http://www.ansd.sn/publications/conjoncturelles/IHPI/mensuelle/IHPI_08_11.pdf", 
+        "version": ""
+    }, 
+    {
+        "author": "", 
+        "author_email": "", 
+        "ckan_url": "http://thedatahub.org/dataset/indice-harmonis-de-la-production-industrielle-ihpi-avril-2011", 
+        "download_url": "http://www.ansd.sn/publications/conjoncturelles/IHPI/mensuelle/IHPI_04_11.pdf", 
+        "extras": {}, 
+        "groups": [
+            "country-sn"
+        ], 
+        "id": "8fc7b028-57e2-447d-969d-2b73cf230fc8", 
+        "isopen": false, 
+        "license": null, 
+        "license_id": "", 
+        "license_title": "", 
+        "maintainer": "", 
+        "maintainer_email": "", 
+        "metadata_created": "2013-03-28T21:45:22.354930", 
+        "metadata_modified": "2013-04-18T13:36:09.857545", 
+        "name": "indice-harmonis-de-la-production-industrielle-ihpi-avril-2011", 
+        "notes": "", 
+        "notes_rendered": "", 
+        "ratings_average": null, 
+        "ratings_count": 0, 
+        "relationships": [], 
+        "resources": [
+            {
+                "cache_last_updated": null, 
+                "cache_url": "", 
+                "created": "2013-03-28T16:45:22.434443", 
+                "description": "", 
+                "format": "", 
+                "hash": "", 
+                "id": "70931d4c-8e84-4c1f-9292-a90f0e352805", 
+                "last_modified": "2013-03-28T16:47:45.458646", 
+                "mimetype": "application/pdf", 
+                "mimetype_inner": "", 
+                "name": "", 
+                "package_id": "8fc7b028-57e2-447d-969d-2b73cf230fc8", 
+                "position": 0, 
+                "resource_group_id": "05a22d8e-5aff-41cd-8d08-91c5015c5bf8", 
+                "resource_type": "", 
+                "size": "461498", 
+                "tracking_summary": {
+                    "recent": 0, 
+                    "total": 0
+                }, 
+                "url": "http://www.ansd.sn/publications/conjoncturelles/IHPI/mensuelle/IHPI_04_11.pdf", 
+                "webstore_last_updated": null, 
+                "webstore_url": ""
+            }
+        ], 
+        "revision_id": "9457a89e-1432-464d-ac17-1b106a602266", 
+        "state": "active", 
+        "tags": [
+            "ANSD", 
+            "Senegal", 
+            "donnees", 
+            "menages", 
+            "publications"
+        ], 
+        "title": "Indice Harmonis\u00e9 de la Production Industrielle (IHPI) Avril 2011", 
+        "tracking_summary": {
+            "recent": 0, 
+            "total": 0
+        }, 
+        "type": null, 
+        "url": "http://www.ansd.sn/publications/conjoncturelles/IHPI/mensuelle/IHPI_04_11.pdf", 
+        "version": ""
+    }, 
+    {
+        "author": "", 
+        "author_email": "", 
+        "ckan_url": "http://thedatahub.org/dataset/indice-harmonis-de-la-production-industrielle-ihpi-d-cembre-2012", 
+        "download_url": "http://www.ansd.sn/publications/conjoncturelles/IHPI/mensuelle/IHPI_12_12.pdf", 
+        "extras": {}, 
+        "groups": [
+            "country-sn"
+        ], 
+        "id": "0c89cb4d-233b-4533-9794-43a4ab125397", 
+        "isopen": false, 
+        "license": null, 
+        "license_id": "", 
+        "license_title": "", 
+        "maintainer": "", 
+        "maintainer_email": "", 
+        "metadata_created": "2013-03-28T21:42:27.965379", 
+        "metadata_modified": "2013-04-18T11:58:13.432675", 
+        "name": "indice-harmonis-de-la-production-industrielle-ihpi-d-cembre-2012", 
+        "notes": "", 
+        "notes_rendered": "", 
+        "ratings_average": null, 
+        "ratings_count": 0, 
+        "relationships": [], 
+        "resources": [
+            {
+                "cache_last_updated": null, 
+                "cache_url": "", 
+                "created": "2013-03-28T16:42:28.142003", 
+                "description": "", 
+                "format": "", 
+                "hash": "", 
+                "id": "dd669812-9da0-4a16-be26-d8da788ea6b2", 
+                "last_modified": "2013-03-28T16:45:13.429936", 
+                "mimetype": "application/pdf", 
+                "mimetype_inner": "", 
+                "name": "", 
+                "package_id": "0c89cb4d-233b-4533-9794-43a4ab125397", 
+                "position": 0, 
+                "resource_group_id": "510f0809-117e-4fcb-a792-4564b2dfe22f", 
+                "resource_type": "", 
+                "size": "403839", 
+                "tracking_summary": {
+                    "recent": 0, 
+                    "total": 0
+                }, 
+                "url": "http://www.ansd.sn/publications/conjoncturelles/IHPI/mensuelle/IHPI_12_12.pdf", 
+                "webstore_last_updated": null, 
+                "webstore_url": ""
+            }
+        ], 
+        "revision_id": "9915a962-7325-49d5-beaf-d6f9bdace87c", 
+        "state": "active", 
+        "tags": [
+            "ANSD", 
+            "Senegal", 
+            "donnees", 
+            "menages", 
+            "publications"
+        ], 
+        "title": "Indice Harmonis\u00e9 de la Production Industrielle (IHPI) D\u00e9cembre 2012", 
+        "tracking_summary": {
+            "recent": 0, 
+            "total": 0
+        }, 
+        "type": null, 
+        "url": "http://www.ansd.sn/publications/conjoncturelles/IHPI/mensuelle/IHPI_12_12.pdf", 
+        "version": ""
+    }, 
+    {
+        "author": "", 
+        "author_email": "", 
+        "ckan_url": "http://thedatahub.org/dataset/indice-harmonis-de-la-production-industrielle-ihpi-f-vrier-2011", 
+        "download_url": "http://www.ansd.sn/publications/conjoncturelles/IHPI/mensuelle/IHPI_02_11.pdf", 
+        "extras": {}, 
+        "groups": [
+            "country-sn"
+        ], 
+        "id": "5c305faf-87d5-483c-93ad-0afc492b8c78", 
+        "isopen": false, 
+        "license": null, 
+        "license_id": "", 
+        "license_title": "", 
+        "maintainer": "", 
+        "maintainer_email": "", 
+        "metadata_created": "2013-03-28T21:46:38.045736", 
+        "metadata_modified": "2013-04-23T11:15:27.789069", 
+        "name": "indice-harmonis-de-la-production-industrielle-ihpi-f-vrier-2011", 
+        "notes": "", 
+        "notes_rendered": "", 
+        "ratings_average": null, 
+        "ratings_count": 0, 
+        "relationships": [], 
+        "resources": [
+            {
+                "cache_last_updated": null, 
+                "cache_url": "", 
+                "created": "2013-03-28T16:46:38.277434", 
+                "description": "", 
+                "format": "", 
+                "hash": "", 
+                "id": "9d33d868-2ed9-4b4d-baca-c5dbbd807a11", 
+                "last_modified": "2013-03-28T16:48:21.465364", 
+                "mimetype": "application/pdf", 
+                "mimetype_inner": "", 
+                "name": "", 
+                "package_id": "5c305faf-87d5-483c-93ad-0afc492b8c78", 
+                "position": 0, 
+                "resource_group_id": "4eaed141-6c31-431c-a9e6-f2e8d24b8257", 
+                "resource_type": "", 
+                "size": "473025", 
+                "tracking_summary": {
+                    "recent": 0, 
+                    "total": 0
+                }, 
+                "url": "http://www.ansd.sn/publications/conjoncturelles/IHPI/mensuelle/IHPI_02_11.pdf", 
+                "webstore_last_updated": null, 
+                "webstore_url": ""
+            }
+        ], 
+        "revision_id": "cf2040fc-403c-4105-9a6b-188af3a904d2", 
+        "state": "active", 
+        "tags": [
+            "ANSD", 
+            "Senegal", 
+            "donnees", 
+            "menages", 
+            "publications"
+        ], 
+        "title": "Indice Harmonis\u00e9 de la Production Industrielle (IHPI) f\u00e9vrier 2011", 
+        "tracking_summary": {
+            "recent": 0, 
+            "total": 0
+        }, 
+        "type": null, 
+        "url": "http://www.ansd.sn/publications/conjoncturelles/IHPI/mensuelle/IHPI_02_11.pdf", 
+        "version": ""
+    }, 
+    {
+        "author": "", 
+        "author_email": "", 
+        "ckan_url": "http://thedatahub.org/dataset/indice-harmonis-de-la-production-industrielle-ihpi-janvier-2013", 
+        "download_url": "http://www.ansd.sn/publications/conjoncturelles/IHPI/mensuelle/IHPI_01_13.pdf", 
+        "extras": {}, 
+        "groups": [
+            "country-sn"
+        ], 
+        "id": "83deea12-47b2-479f-b6d7-d434aa253fb4", 
+        "isopen": false, 
+        "license": null, 
+        "license_id": "", 
+        "license_title": "", 
+        "maintainer": "", 
+        "maintainer_email": "", 
+        "metadata_created": "2013-03-28T21:42:25.547442", 
+        "metadata_modified": "2013-04-23T11:11:26.892111", 
+        "name": "indice-harmonis-de-la-production-industrielle-ihpi-janvier-2013", 
+        "notes": "", 
+        "notes_rendered": "", 
+        "ratings_average": null, 
+        "ratings_count": 0, 
+        "relationships": [], 
+        "resources": [
+            {
+                "cache_last_updated": null, 
+                "cache_url": "", 
+                "created": "2013-03-28T16:42:25.621499", 
+                "description": "", 
+                "format": "", 
+                "hash": "", 
+                "id": "358a18bd-c66a-4b2d-949c-48791129ae30", 
+                "last_modified": "2013-03-28T16:45:09.472274", 
+                "mimetype": "application/pdf", 
+                "mimetype_inner": "", 
+                "name": "", 
+                "package_id": "83deea12-47b2-479f-b6d7-d434aa253fb4", 
+                "position": 0, 
+                "resource_group_id": "42800a99-2b29-4d4a-8a87-15eca1fc0575", 
+                "resource_type": "", 
+                "size": "397513", 
+                "tracking_summary": {
+                    "recent": 0, 
+                    "total": 0
+                }, 
+                "url": "http://www.ansd.sn/publications/conjoncturelles/IHPI/mensuelle/IHPI_01_13.pdf", 
+                "webstore_last_updated": null, 
+                "webstore_url": ""
+            }
+        ], 
+        "revision_id": "4e10db99-d561-4bb8-82dc-63116e322b8b", 
+        "state": "active", 
+        "tags": [
+            "ANSD", 
+            "Senegal", 
+            "donnees", 
+            "menages", 
+            "publications"
+        ], 
+        "title": "Indice Harmonis\u00e9 de la Production Industrielle (IHPI) Janvier 2013", 
+        "tracking_summary": {
+            "recent": 0, 
+            "total": 0
+        }, 
+        "type": null, 
+        "url": "http://www.ansd.sn/publications/conjoncturelles/IHPI/mensuelle/IHPI_01_13.pdf", 
+        "version": ""
+    }, 
+    {
+        "author": "", 
+        "author_email": "", 
+        "ckan_url": "http://thedatahub.org/dataset/indice-harmonis-de-la-production-industrielle-ihpi-juillet-2011", 
+        "download_url": "http://www.ansd.sn/publications/conjoncturelles/IHPI/mensuelle/IHPI_07_11.pdf", 
+        "extras": {}, 
+        "groups": [
+            "country-sn"
+        ], 
+        "id": "8111c82d-a747-4ce6-b7fb-7b3ed01e1870", 
+        "isopen": false, 
+        "license": null, 
+        "license_id": "", 
+        "license_title": "", 
+        "maintainer": "", 
+        "maintainer_email": "", 
+        "metadata_created": "2013-03-28T21:44:39.537230", 
+        "metadata_modified": "2013-04-18T15:30:35.680074", 
+        "name": "indice-harmonis-de-la-production-industrielle-ihpi-juillet-2011", 
+        "notes": "", 
+        "notes_rendered": "", 
+        "ratings_average": null, 
+        "ratings_count": 0, 
+        "relationships": [], 
+        "resources": [
+            {
+                "cache_last_updated": null, 
+                "cache_url": "", 
+                "created": "2013-03-28T16:44:39.612116", 
+                "description": "", 
+                "format": "", 
+                "hash": "", 
+                "id": "0354a526-83a1-4d82-9303-9ac9db9f016f", 
+                "last_modified": "2013-03-28T16:46:53.427857", 
+                "mimetype": "application/pdf", 
+                "mimetype_inner": "", 
+                "name": "", 
+                "package_id": "8111c82d-a747-4ce6-b7fb-7b3ed01e1870", 
+                "position": 0, 
+                "resource_group_id": "3b5cbc97-d72d-4a72-ab43-3a994b6ca262", 
+                "resource_type": "", 
+                "size": "466749", 
+                "tracking_summary": {
+                    "recent": 0, 
+                    "total": 0
+                }, 
+                "url": "http://www.ansd.sn/publications/conjoncturelles/IHPI/mensuelle/IHPI_07_11.pdf", 
+                "webstore_last_updated": null, 
+                "webstore_url": ""
+            }
+        ], 
+        "revision_id": "e303b29f-ad0b-417e-a74a-be3a44cd1b73", 
+        "state": "active", 
+        "tags": [
+            "ANSD", 
+            "Senegal", 
+            "donnees", 
+            "menages", 
+            "publications"
+        ], 
+        "title": "Indice Harmonis\u00e9 de la Production Industrielle (IHPI) juillet 2011", 
+        "tracking_summary": {
+            "recent": 0, 
+            "total": 0
+        }, 
+        "type": null, 
+        "url": "http://www.ansd.sn/publications/conjoncturelles/IHPI/mensuelle/IHPI_07_11.pdf", 
+        "version": ""
+    }, 
+    {
+        "author": "", 
+        "author_email": "", 
+        "ckan_url": "http://thedatahub.org/dataset/indice-harmonis-de-la-production-industrielle-ihpi-juin-2012", 
+        "download_url": "http://www.ansd.sn/publications/conjoncturelles/IHPI/mensuelle/IHPI_06_12.pdf", 
+        "extras": {}, 
+        "groups": [
+            "country-sn"
+        ], 
+        "id": "1c448f5d-0901-4ab2-8900-ed0b77883a65", 
+        "isopen": false, 
+        "license": null, 
+        "license_id": "", 
+        "license_title": "", 
+        "maintainer": "", 
+        "maintainer_email": "", 
+        "metadata_created": "2013-03-28T21:44:53.071784", 
+        "metadata_modified": "2013-04-18T15:12:37.016380", 
+        "name": "indice-harmonis-de-la-production-industrielle-ihpi-juin-2012", 
+        "notes": "", 
+        "notes_rendered": "", 
+        "ratings_average": null, 
+        "ratings_count": 0, 
+        "relationships": [], 
+        "resources": [
+            {
+                "cache_last_updated": null, 
+                "cache_url": "", 
+                "created": "2013-03-28T16:44:53.148265", 
+                "description": "", 
+                "format": "", 
+                "hash": "", 
+                "id": "3c8c068d-3f0b-4dc2-a0f1-6626481c89eb", 
+                "last_modified": "2013-03-28T16:47:09.432957", 
+                "mimetype": "application/pdf", 
+                "mimetype_inner": "", 
+                "name": "", 
+                "package_id": "1c448f5d-0901-4ab2-8900-ed0b77883a65", 
+                "position": 0, 
+                "resource_group_id": "5c4d560d-b4be-440d-a172-a061972d7ce8", 
+                "resource_type": "", 
+                "size": "413985", 
+                "tracking_summary": {
+                    "recent": 0, 
+                    "total": 0
+                }, 
+                "url": "http://www.ansd.sn/publications/conjoncturelles/IHPI/mensuelle/IHPI_06_12.pdf", 
+                "webstore_last_updated": null, 
+                "webstore_url": ""
+            }
+        ], 
+        "revision_id": "3fa955a7-042b-49f2-aed7-94e7f0c827d5", 
+        "state": "active", 
+        "tags": [
+            "ANSD", 
+            "Senegal", 
+            "donnees", 
+            "menages", 
+            "publications"
+        ], 
+        "title": "Indice Harmonis\u00e9 de la Production Industrielle (IHPI) Juin 2012", 
+        "tracking_summary": {
+            "recent": 0, 
+            "total": 0
+        }, 
+        "type": null, 
+        "url": "http://www.ansd.sn/publications/conjoncturelles/IHPI/mensuelle/IHPI_06_12.pdf", 
+        "version": ""
+    }, 
+    {
+        "author": "", 
+        "author_email": "", 
+        "ckan_url": "http://thedatahub.org/dataset/indice-harmonis-de-la-production-industrielle-ihpi-mai-2011", 
+        "download_url": "http://www.ansd.sn/publications/conjoncturelles/IHPI/mensuelle/IHPI_05_11.pdf", 
+        "extras": {}, 
+        "groups": [
+            "country-sn"
+        ], 
+        "id": "dbc8ea7d-744a-4a27-b41a-9c098613fe02", 
+        "isopen": false, 
+        "license": null, 
+        "license_id": "", 
+        "license_title": "", 
+        "maintainer": "", 
+        "maintainer_email": "", 
+        "metadata_created": "2013-03-28T21:45:10.772870", 
+        "metadata_modified": "2013-04-18T13:40:45.619338", 
+        "name": "indice-harmonis-de-la-production-industrielle-ihpi-mai-2011", 
+        "notes": "", 
+        "notes_rendered": "", 
+        "ratings_average": null, 
+        "ratings_count": 0, 
+        "relationships": [], 
+        "resources": [
+            {
+                "cache_last_updated": null, 
+                "cache_url": "", 
+                "created": "2013-03-28T16:45:10.889578", 
+                "description": "", 
+                "format": "", 
+                "hash": "", 
+                "id": "8d1bc059-964a-4b08-85ed-144a9e11121c", 
+                "last_modified": "2013-03-28T16:47:29.462413", 
+                "mimetype": "application/pdf", 
+                "mimetype_inner": "", 
+                "name": "", 
+                "package_id": "dbc8ea7d-744a-4a27-b41a-9c098613fe02", 
+                "position": 0, 
+                "resource_group_id": "1ab4cb0e-dee7-463f-8043-0bccd5e910e8", 
+                "resource_type": "", 
+                "size": "440811", 
+                "tracking_summary": {
+                    "recent": 0, 
+                    "total": 0
+                }, 
+                "url": "http://www.ansd.sn/publications/conjoncturelles/IHPI/mensuelle/IHPI_05_11.pdf", 
+                "webstore_last_updated": null, 
+                "webstore_url": ""
+            }
+        ], 
+        "revision_id": "39c2a997-951e-41a5-8047-2f036900c32f", 
+        "state": "active", 
+        "tags": [
+            "ANSD", 
+            "Senegal", 
+            "donnees", 
+            "menages", 
+            "publications"
+        ], 
+        "title": "Indice Harmonis\u00e9 de la Production Industrielle (IHPI) Mai 2011", 
+        "tracking_summary": {
+            "recent": 0, 
+            "total": 0
+        }, 
+        "type": null, 
+        "url": "http://www.ansd.sn/publications/conjoncturelles/IHPI/mensuelle/IHPI_05_11.pdf", 
+        "version": ""
+    }, 
+    {
+        "author": "", 
+        "author_email": "", 
+        "ckan_url": "http://thedatahub.org/dataset/indice-harmonis-de-la-production-industrielle-ihpi-mars-2011", 
+        "download_url": "http://www.ansd.sn/publications/conjoncturelles/IHPI/mensuelle/IHPI_03_11.pdf", 
+        "extras": {}, 
+        "groups": [
+            "country-sn"
+        ], 
+        "id": "14792509-1b7f-4d17-bffb-5880c69af411", 
+        "isopen": false, 
+        "license": null, 
+        "license_id": "", 
+        "license_title": "", 
+        "maintainer": "", 
+        "maintainer_email": "", 
+        "metadata_created": "2013-03-28T21:45:59.281157", 
+        "metadata_modified": "2013-04-23T11:21:56.021928", 
+        "name": "indice-harmonis-de-la-production-industrielle-ihpi-mars-2011", 
+        "notes": "", 
+        "notes_rendered": "", 
+        "ratings_average": null, 
+        "ratings_count": 0, 
+        "relationships": [], 
+        "resources": [
+            {
+                "cache_last_updated": null, 
+                "cache_url": "", 
+                "created": "2013-03-28T16:45:59.361863", 
+                "description": "", 
+                "format": "", 
+                "hash": "", 
+                "id": "9fda86cb-aaae-4aca-b6c8-5532efb5f981", 
+                "last_modified": "2013-03-28T16:48:01.466049", 
+                "mimetype": "application/pdf", 
+                "mimetype_inner": "", 
+                "name": "", 
+                "package_id": "14792509-1b7f-4d17-bffb-5880c69af411", 
+                "position": 0, 
+                "resource_group_id": "2caf96cf-45d3-4594-bc94-c2828896d981", 
+                "resource_type": "", 
+                "size": "468087", 
+                "tracking_summary": {
+                    "recent": 0, 
+                    "total": 0
+                }, 
+                "url": "http://www.ansd.sn/publications/conjoncturelles/IHPI/mensuelle/IHPI_03_11.pdf", 
+                "webstore_last_updated": null, 
+                "webstore_url": ""
+            }
+        ], 
+        "revision_id": "91f8a470-918c-49b3-b85a-0d2e16e275ab", 
+        "state": "active", 
+        "tags": [
+            "ANSD", 
+            "Senegal", 
+            "donnees", 
+            "menages", 
+            "publications"
+        ], 
+        "title": "Indice Harmonis\u00e9 de la Production Industrielle (IHPI) Mars 2011", 
+        "tracking_summary": {
+            "recent": 0, 
+            "total": 0
+        }, 
+        "type": null, 
+        "url": "http://www.ansd.sn/publications/conjoncturelles/IHPI/mensuelle/IHPI_03_11.pdf", 
+        "version": ""
+    }, 
+    {
+        "author": "", 
+        "author_email": "", 
+        "ckan_url": "http://thedatahub.org/dataset/indice-harmonis-de-la-production-industrielle-ihpi-novembre-2012", 
+        "download_url": "http://www.ansd.sn/publications/conjoncturelles/IHPI/mensuelle/IHPI_11_12.pdf", 
+        "extras": {}, 
+        "groups": [
+            "country-sn"
+        ], 
+        "id": "4b480add-3096-49f8-9f14-e3f54d3ab113", 
+        "isopen": false, 
+        "license": null, 
+        "license_id": "", 
+        "license_title": "", 
+        "maintainer": "", 
+        "maintainer_email": "", 
+        "metadata_created": "2013-03-28T21:42:43.573341", 
+        "metadata_modified": "2013-04-18T11:54:55.911055", 
+        "name": "indice-harmonis-de-la-production-industrielle-ihpi-novembre-2012", 
+        "notes": "", 
+        "notes_rendered": "", 
+        "ratings_average": null, 
+        "ratings_count": 0, 
+        "relationships": [], 
+        "resources": [
+            {
+                "cache_last_updated": null, 
+                "cache_url": "", 
+                "created": "2013-03-28T16:42:43.717026", 
+                "description": "", 
+                "format": "", 
+                "hash": "", 
+                "id": "4fc715e0-1bc3-439b-ba79-2fb1c21dba97", 
+                "last_modified": "2013-03-28T16:45:33.456273", 
+                "mimetype": "application/pdf", 
+                "mimetype_inner": "", 
+                "name": "", 
+                "package_id": "4b480add-3096-49f8-9f14-e3f54d3ab113", 
+                "position": 0, 
+                "resource_group_id": "108aabcf-3dd3-42ed-ba92-7026a6b36b13", 
+                "resource_type": "", 
+                "size": "451122", 
+                "tracking_summary": {
+                    "recent": 0, 
+                    "total": 0
+                }, 
+                "url": "http://www.ansd.sn/publications/conjoncturelles/IHPI/mensuelle/IHPI_11_12.pdf", 
+                "webstore_last_updated": null, 
+                "webstore_url": ""
+            }
+        ], 
+        "revision_id": "8076c04f-666c-45e3-9c36-499e67b5681d", 
+        "state": "active", 
+        "tags": [
+            "ANSD", 
+            "Senegal", 
+            "donnees", 
+            "menages", 
+            "publications"
+        ], 
+        "title": "Indice Harmonis\u00e9 de la Production Industrielle (IHPI) Novembre 2012", 
+        "tracking_summary": {
+            "recent": 0, 
+            "total": 0
+        }, 
+        "type": null, 
+        "url": "http://www.ansd.sn/publications/conjoncturelles/IHPI/mensuelle/IHPI_11_12.pdf", 
+        "version": ""
+    }, 
+    {
+        "author": "", 
+        "author_email": "", 
+        "ckan_url": "http://thedatahub.org/dataset/indice-harmonis-de-la-production-industrielle-ihpi-octobre-2012", 
+        "download_url": "http://www.ansd.sn/publications/conjoncturelles/IHPI/mensuelle/IHPI_10_12.pdf", 
+        "extras": {}, 
+        "groups": [
+            "country-sn"
+        ], 
+        "id": "e0a88be6-8683-4660-8678-d9e72bce8778", 
+        "isopen": false, 
+        "license": null, 
+        "license_id": "", 
+        "license_title": "", 
+        "maintainer": "", 
+        "maintainer_email": "", 
+        "metadata_created": "2013-03-28T21:42:57.377661", 
+        "metadata_modified": "2013-04-18T11:44:53.734513", 
+        "name": "indice-harmonis-de-la-production-industrielle-ihpi-octobre-2012", 
+        "notes": "", 
+        "notes_rendered": "", 
+        "ratings_average": null, 
+        "ratings_count": 0, 
+        "relationships": [], 
+        "resources": [
+            {
+                "cache_last_updated": null, 
+                "cache_url": "", 
+                "created": "2013-03-28T16:42:57.460524", 
+                "description": "", 
+                "format": "", 
+                "hash": "", 
+                "id": "e0d2383e-4753-415a-a91f-ccc2d2659c08", 
+                "last_modified": "2013-03-28T16:45:53.439152", 
+                "mimetype": "application/pdf", 
+                "mimetype_inner": "", 
+                "name": "", 
+                "package_id": "e0a88be6-8683-4660-8678-d9e72bce8778", 
+                "position": 0, 
+                "resource_group_id": "f5ef4929-d27e-4111-8c60-d4a25a87ec8c", 
+                "resource_type": "", 
+                "size": "404499", 
+                "tracking_summary": {
+                    "recent": 0, 
+                    "total": 0
+                }, 
+                "url": "http://www.ansd.sn/publications/conjoncturelles/IHPI/mensuelle/IHPI_10_12.pdf", 
+                "webstore_last_updated": null, 
+                "webstore_url": ""
+            }
+        ], 
+        "revision_id": "840df274-7045-45bc-9c6c-4c851b21009b", 
+        "state": "active", 
+        "tags": [
+            "ANSD", 
+            "Senegal", 
+            "donnees", 
+            "menages", 
+            "publications"
+        ], 
+        "title": "Indice Harmonis\u00e9 de la Production Industrielle (IHPI) Octobre 2012", 
+        "tracking_summary": {
+            "recent": 0, 
+            "total": 0
+        }, 
+        "type": null, 
+        "url": "http://www.ansd.sn/publications/conjoncturelles/IHPI/mensuelle/IHPI_10_12.pdf", 
+        "version": ""
+    }, 
+    {
+        "author": "", 
+        "author_email": "", 
+        "ckan_url": "http://thedatahub.org/dataset/indice-harmonise-des-prix-la-consommation-ihpc-janvier-2011", 
+        "download_url": "http://www.ansd.sn/publications/conjoncturelles/IHPC/mensuelle/IHPC_01_11.pdf", 
+        "extras": {}, 
+        "groups": [
+            "country-sn"
+        ], 
+        "id": "f565f3ba-59e4-4c37-ac0a-b0ee7e743d17", 
+        "isopen": false, 
+        "license": null, 
+        "license_id": "", 
+        "license_title": "", 
+        "maintainer": "", 
+        "maintainer_email": "", 
+        "metadata_created": "2013-03-28T21:54:05.307851", 
+        "metadata_modified": "2013-04-23T12:40:30.251496", 
+        "name": "indice-harmonise-des-prix-la-consommation-ihpc-janvier-2011", 
+        "notes": "", 
+        "notes_rendered": "", 
+        "ratings_average": null, 
+        "ratings_count": 0, 
+        "relationships": [], 
+        "resources": [
+            {
+                "cache_last_updated": null, 
+                "cache_url": "", 
+                "created": "2013-03-28T16:54:05.404170", 
+                "description": "", 
+                "format": "", 
+                "hash": "", 
+                "id": "b49e5da4-29aa-42e7-9e8e-b3c2465a2449", 
+                "last_modified": "2013-03-28T16:57:26.227555", 
+                "mimetype": "application/pdf", 
+                "mimetype_inner": "", 
+                "name": "", 
+                "package_id": "f565f3ba-59e4-4c37-ac0a-b0ee7e743d17", 
+                "position": 0, 
+                "resource_group_id": "f58b1d96-fd04-4938-b5e9-5f956e2dc022", 
+                "resource_type": "", 
+                "size": "198623", 
+                "tracking_summary": {
+                    "recent": 0, 
+                    "total": 0
+                }, 
+                "url": "http://www.ansd.sn/publications/conjoncturelles/IHPC/mensuelle/IHPC_01_11.pdf", 
+                "webstore_last_updated": null, 
+                "webstore_url": ""
+            }
+        ], 
+        "revision_id": "64e073d7-9ba7-4c4d-938a-bc292b701604", 
+        "state": "active", 
+        "tags": [
+            "ANSD", 
+            "Senegal", 
+            "donnees", 
+            "menages", 
+            "publications"
+        ], 
+        "title": "Indice Harmonise des Prix \u00e0 la Consommation IHPC Janvier 2011", 
+        "tracking_summary": {
+            "recent": 0, 
+            "total": 0
+        }, 
+        "type": null, 
+        "url": "http://www.ansd.sn/publications/conjoncturelles/IHPC/mensuelle/IHPC_01_11.pdf", 
+        "version": ""
+    }, 
+    {
+        "author": "", 
+        "author_email": "", 
+        "ckan_url": "http://thedatahub.org/dataset/indice-harmonise-des-prix-la-consommation-ihpc-janvier-2012", 
+        "download_url": "http://www.ansd.sn/publications/conjoncturelles/IHPC/mensuelle/IHPC_01_12.pdf", 
+        "extras": {}, 
+        "groups": [
+            "country-sn"
+        ], 
+        "id": "14de54a8-d4ce-4f39-a9a7-0f0021621e52", 
+        "isopen": false, 
+        "license": null, 
+        "license_id": "", 
+        "license_title": "", 
+        "maintainer": "", 
+        "maintainer_email": "", 
+        "metadata_created": "2013-03-28T21:54:02.964881", 
+        "metadata_modified": "2013-04-23T12:41:29.047390", 
+        "name": "indice-harmonise-des-prix-la-consommation-ihpc-janvier-2012", 
+        "notes": "", 
+        "notes_rendered": "", 
+        "ratings_average": null, 
+        "ratings_count": 0, 
+        "relationships": [], 
+        "resources": [
+            {
+                "cache_last_updated": null, 
+                "cache_url": "", 
+                "created": "2013-03-28T16:54:03.047576", 
+                "description": "", 
+                "format": "", 
+                "hash": "", 
+                "id": "1da95753-f348-43b3-a2f7-c6532a87e642", 
+                "last_modified": "2013-03-28T16:57:22.235617", 
+                "mimetype": "application/pdf", 
+                "mimetype_inner": "", 
+                "name": "", 
+                "package_id": "14de54a8-d4ce-4f39-a9a7-0f0021621e52", 
+                "position": 0, 
+                "resource_group_id": "99e17e16-0af7-4e45-9f9c-83c95f535ccb", 
+                "resource_type": "", 
+                "size": "192214", 
+                "tracking_summary": {
+                    "recent": 0, 
+                    "total": 0
+                }, 
+                "url": "http://www.ansd.sn/publications/conjoncturelles/IHPC/mensuelle/IHPC_01_12.pdf", 
+                "webstore_last_updated": null, 
+                "webstore_url": ""
+            }
+        ], 
+        "revision_id": "a0df84c0-79fd-4993-841f-eef97e6c4acf", 
+        "state": "active", 
+        "tags": [
+            "ANSD", 
+            "Senegal", 
+            "donnees", 
+            "menages", 
+            "publications"
+        ], 
+        "title": "Indice Harmonise des Prix \u00e0 la Consommation IHPC Janvier 2012", 
+        "tracking_summary": {
+            "recent": 0, 
+            "total": 0
+        }, 
+        "type": null, 
+        "url": "http://www.ansd.sn/publications/conjoncturelles/IHPC/mensuelle/IHPC_01_12.pdf", 
+        "version": ""
+    }, 
+    {
+        "author": "", 
+        "author_email": "", 
+        "ckan_url": "http://thedatahub.org/dataset/indice-harmonise-des-prix-la-consommation-ihpc-juin-2011", 
+        "download_url": "http://www.ansd.sn/publications/conjoncturelles/IHPC/mensuelle/IHPC_06_11.pdf", 
+        "extras": {}, 
+        "groups": [
+            "country-sn"
+        ], 
+        "id": "e9c9e9b5-4a8b-4a14-8e95-eb00b7dc1ef0", 
+        "isopen": false, 
+        "license": null, 
+        "license_id": "", 
+        "license_title": "", 
+        "maintainer": "", 
+        "maintainer_email": "", 
+        "metadata_created": "2013-03-28T21:52:11.808248", 
+        "metadata_modified": "2013-04-23T13:12:06.449018", 
+        "name": "indice-harmonise-des-prix-la-consommation-ihpc-juin-2011", 
+        "notes": "", 
+        "notes_rendered": "", 
+        "ratings_average": null, 
+        "ratings_count": 0, 
+        "relationships": [], 
+        "resources": [
+            {
+                "cache_last_updated": null, 
+                "cache_url": "", 
+                "created": "2013-03-28T16:52:11.904278", 
+                "description": "", 
+                "format": "", 
+                "hash": "", 
+                "id": "ee96135c-b7ab-4ebb-abe1-5b6c1a7eae89", 
+                "last_modified": "2013-03-28T16:55:20.336407", 
+                "mimetype": "application/pdf", 
+                "mimetype_inner": "", 
+                "name": "", 
+                "package_id": "e9c9e9b5-4a8b-4a14-8e95-eb00b7dc1ef0", 
+                "position": 0, 
+                "resource_group_id": "05fad378-8a87-4236-95e3-19637a32fbed", 
+                "resource_type": "", 
+                "size": "373337", 
+                "tracking_summary": {
+                    "recent": 0, 
+                    "total": 0
+                }, 
+                "url": "http://www.ansd.sn/publications/conjoncturelles/IHPC/mensuelle/IHPC_06_11.pdf", 
+                "webstore_last_updated": null, 
+                "webstore_url": ""
+            }
+        ], 
+        "revision_id": "0424c86b-7e8b-49c5-9614-32655ec82f56", 
+        "state": "active", 
+        "tags": [
+            "ANSD", 
+            "Senegal", 
+            "donnees", 
+            "menages", 
+            "publications"
+        ], 
+        "title": "Indice Harmonise des Prix \u00e0 la Consommation IHPC Juin 2011", 
+        "tracking_summary": {
+            "recent": 0, 
+            "total": 0
+        }, 
+        "type": null, 
+        "url": "http://www.ansd.sn/publications/conjoncturelles/IHPC/mensuelle/IHPC_06_11.pdf", 
+        "version": ""
+    }, 
+    {
+        "author": "", 
+        "author_email": "", 
+        "ckan_url": "http://thedatahub.org/dataset/indice-harmonise-des-prix-la-consommation-ihpc-mars-2012", 
+        "download_url": "http://www.ansd.sn/publications/conjoncturelles/IHPC/mensuelle/IHPC_03_12.pdf", 
+        "extras": {}, 
+        "groups": [
+            "country-sn"
+        ], 
+        "id": "6f37dcc7-28a6-46c1-8be9-c3b1c29459a2", 
+        "isopen": false, 
+        "license": null, 
+        "license_id": "", 
+        "license_title": "", 
+        "maintainer": "", 
+        "maintainer_email": "", 
+        "metadata_created": "2013-03-28T21:53:22.550906", 
+        "metadata_modified": "2013-04-23T12:51:12.723486", 
+        "name": "indice-harmonise-des-prix-la-consommation-ihpc-mars-2012", 
+        "notes": "", 
+        "notes_rendered": "", 
+        "ratings_average": null, 
+        "ratings_count": 0, 
+        "relationships": [], 
+        "resources": [
+            {
+                "cache_last_updated": null, 
+                "cache_url": "", 
+                "created": "2013-03-28T16:53:22.923660", 
+                "description": "", 
+                "format": "", 
+                "hash": "", 
+                "id": "e78b2afc-9e24-4943-a3e3-03baac88b803", 
+                "last_modified": "2013-03-28T16:56:34.068735", 
+                "mimetype": "application/pdf", 
+                "mimetype_inner": "", 
+                "name": "", 
+                "package_id": "6f37dcc7-28a6-46c1-8be9-c3b1c29459a2", 
+                "position": 0, 
+                "resource_group_id": "9576d21e-4baa-4a81-b0cb-bfefcf8766cb", 
+                "resource_type": "", 
+                "size": "323426", 
+                "tracking_summary": {
+                    "recent": 0, 
+                    "total": 0
+                }, 
+                "url": "http://www.ansd.sn/publications/conjoncturelles/IHPC/mensuelle/IHPC_03_12.pdf", 
+                "webstore_last_updated": null, 
+                "webstore_url": ""
+            }
+        ], 
+        "revision_id": "4483e113-d85d-4dea-8758-0ab368b909c4", 
+        "state": "active", 
+        "tags": [
+            "ANSD", 
+            "Senegal", 
+            "donnees", 
+            "menages", 
+            "publications"
+        ], 
+        "title": "Indice Harmonise des Prix \u00e0 la Consommation IHPC Mars 2012", 
+        "tracking_summary": {
+            "recent": 0, 
+            "total": 0
+        }, 
+        "type": null, 
+        "url": "http://www.ansd.sn/publications/conjoncturelles/IHPC/mensuelle/IHPC_03_12.pdf", 
+        "version": ""
+    }, 
+    {
+        "author": "", 
+        "author_email": "", 
+        "ckan_url": "http://thedatahub.org/dataset/indices-des-prix-la-production-industrielle-ippi-avril-2011", 
+        "download_url": "http://www.ansd.sn/publications/conjoncturelles/IPPI/mensuel/IPPI_04_11.pdf", 
+        "extras": {}, 
+        "groups": [
+            "country-sn"
+        ], 
+        "id": "226fc3de-a33b-4f32-8dbe-12d73afaaf13", 
+        "isopen": false, 
+        "license": null, 
+        "license_id": "", 
+        "license_title": "", 
+        "maintainer": "", 
+        "maintainer_email": "", 
+        "metadata_created": "2013-03-29T10:20:58.632381", 
+        "metadata_modified": "2013-04-15T12:32:24.804591", 
+        "name": "indices-des-prix-la-production-industrielle-ippi-avril-2011", 
+        "notes": "", 
+        "notes_rendered": "", 
+        "ratings_average": null, 
+        "ratings_count": 0, 
+        "relationships": [], 
+        "resources": [
+            {
+                "cache_last_updated": null, 
+                "cache_url": "", 
+                "created": "2013-03-29T05:20:58.752977", 
+                "description": "", 
+                "format": "", 
+                "hash": "", 
+                "id": "9286abaa-d4bb-4b83-a4f7-05e0ab610b20", 
+                "last_modified": "2013-03-29T05:21:00.199890", 
+                "mimetype": "application/pdf", 
+                "mimetype_inner": "", 
+                "name": "", 
+                "package_id": "226fc3de-a33b-4f32-8dbe-12d73afaaf13", 
+                "position": 0, 
+                "resource_group_id": "eeb5b2d0-4fe4-4c51-9b7d-9fa9515b0e72", 
+                "resource_type": "", 
+                "size": "470983", 
+                "tracking_summary": {
+                    "recent": 0, 
+                    "total": 0
+                }, 
+                "url": "http://www.ansd.sn/publications/conjoncturelles/IPPI/mensuel/IPPI_04_11.pdf", 
+                "webstore_last_updated": null, 
+                "webstore_url": ""
+            }
+        ], 
+        "revision_id": "e09a5f4e-11e8-43ce-a53e-f12ec1d49b52", 
+        "state": "active", 
+        "tags": [
+            "ANSD", 
+            "Senegal", 
+            "donnees", 
+            "menages", 
+            "publications"
+        ], 
+        "title": "Indices des Prix \u00e0 la Production industrielle (IPPI) Avril 2011", 
+        "tracking_summary": {
+            "recent": 0, 
+            "total": 0
+        }, 
+        "type": null, 
+        "url": "http://www.ansd.sn/publications/conjoncturelles/IPPI/mensuel/IPPI_04_11.pdf", 
+        "version": ""
+    }, 
+    {
+        "author": "", 
+        "author_email": "", 
+        "ckan_url": "http://thedatahub.org/dataset/indices-des-prix-la-production-industrielle-ippi-janvier-2011", 
+        "download_url": "http://www.ansd.sn/publications/conjoncturelles/IPPI/mensuel/IPPI_01_11.pdf", 
+        "extras": {}, 
+        "groups": [
+            "country-sn"
+        ], 
+        "id": "efb0c0aa-ae95-435d-89ac-15c870de768e", 
+        "isopen": false, 
+        "license": null, 
+        "license_id": "", 
+        "license_title": "", 
+        "maintainer": "", 
+        "maintainer_email": "", 
+        "metadata_created": "2013-03-29T10:22:01.140483", 
+        "metadata_modified": "2013-04-15T12:24:09.199433", 
+        "name": "indices-des-prix-la-production-industrielle-ippi-janvier-2011", 
+        "notes": "", 
+        "notes_rendered": "", 
+        "ratings_average": null, 
+        "ratings_count": 0, 
+        "relationships": [], 
+        "resources": [
+            {
+                "cache_last_updated": null, 
+                "cache_url": "", 
+                "created": "2013-03-29T05:22:01.275531", 
+                "description": "", 
+                "format": "", 
+                "hash": "", 
+                "id": "28f44efc-4d42-4ece-95d1-5da58b1fe2cc", 
+                "last_modified": "2013-03-29T05:22:03.743226", 
+                "mimetype": "application/pdf", 
+                "mimetype_inner": "", 
+                "name": "", 
+                "package_id": "efb0c0aa-ae95-435d-89ac-15c870de768e", 
+                "position": 0, 
+                "resource_group_id": "efe984b9-e734-45f4-9e93-0c37b3579165", 
+                "resource_type": "", 
+                "size": "416793", 
+                "tracking_summary": {
+                    "recent": 0, 
+                    "total": 0
+                }, 
+                "url": "http://www.ansd.sn/publications/conjoncturelles/IPPI/mensuel/IPPI_01_11.pdf", 
+                "webstore_last_updated": null, 
+                "webstore_url": ""
+            }
+        ], 
+        "revision_id": "78d570b7-224f-499c-818b-81e2722b9ad5", 
+        "state": "active", 
+        "tags": [
+            "ANSD", 
+            "Senegal", 
+            "donnees", 
+            "menages", 
+            "publications"
+        ], 
+        "title": "Indices des Prix \u00e0 la Production industrielle (IPPI) Janvier 2011", 
+        "tracking_summary": {
+            "recent": 0, 
+            "total": 0
+        }, 
+        "type": null, 
+        "url": "http://www.ansd.sn/publications/conjoncturelles/IPPI/mensuel/IPPI_01_11.pdf", 
+        "version": ""
+    }, 
+    {
+        "author": "", 
+        "author_email": "", 
+        "ckan_url": "http://thedatahub.org/dataset/indices-des-prix-la-production-industrielle-ippi-janvier-2013", 
+        "download_url": "http://www.ansd.sn/publications/conjoncturelles/IPPI/mensuel/IPPI_01_13.pdf", 
+        "extras": {}, 
+        "groups": [
+            "country-sn"
+        ], 
+        "id": "5ee4c832-1c55-4798-8100-7f255a69c7ec", 
+        "isopen": false, 
+        "license": null, 
+        "license_id": "", 
+        "license_title": "", 
+        "maintainer": "", 
+        "maintainer_email": "", 
+        "metadata_created": "2013-03-29T10:18:12.265503", 
+        "metadata_modified": "2013-04-15T12:25:38.425475", 
+        "name": "indices-des-prix-la-production-industrielle-ippi-janvier-2013", 
+        "notes": "", 
+        "notes_rendered": "", 
+        "ratings_average": null, 
+        "ratings_count": 0, 
+        "relationships": [], 
+        "resources": [
+            {
+                "cache_last_updated": null, 
+                "cache_url": "", 
+                "created": "2013-03-29T05:18:12.494707", 
+                "description": "", 
+                "format": "", 
+                "hash": "", 
+                "id": "d51d6885-7d56-44e9-8b10-59a39223ee48", 
+                "last_modified": "2013-03-29T05:18:14.506312", 
+                "mimetype": "application/pdf", 
+                "mimetype_inner": "", 
+                "name": "", 
+                "package_id": "5ee4c832-1c55-4798-8100-7f255a69c7ec", 
+                "position": 0, 
+                "resource_group_id": "4af0d73a-d5da-492e-97f9-7f417d431809", 
+                "resource_type": "", 
+                "size": "601638", 
+                "tracking_summary": {
+                    "recent": 0, 
+                    "total": 0
+                }, 
+                "url": "http://www.ansd.sn/publications/conjoncturelles/IPPI/mensuel/IPPI_01_13.pdf", 
+                "webstore_last_updated": null, 
+                "webstore_url": ""
+            }
+        ], 
+        "revision_id": "3fb5aaaa-b96a-4e51-8cbe-2cad09e4f296", 
+        "state": "active", 
+        "tags": [
+            "ANSD", 
+            "Senegal", 
+            "donnees", 
+            "menages", 
+            "publications"
+        ], 
+        "title": "Indices des Prix \u00e0 la Production industrielle (IPPI) Janvier 2013", 
+        "tracking_summary": {
+            "recent": 0, 
+            "total": 0
+        }, 
+        "type": null, 
+        "url": "http://www.ansd.sn/publications/conjoncturelles/IPPI/mensuel/IPPI_01_13.pdf", 
+        "version": ""
+    }, 
+    {
+        "author": "", 
+        "author_email": "", 
+        "ckan_url": "http://thedatahub.org/dataset/indices-des-prix-la-production-industrielle-ippi-juillet-2011", 
+        "download_url": "http://www.ansd.sn/publications/conjoncturelles/IPPI/mensuel/IPPI_07_11.pdf", 
+        "extras": {}, 
+        "groups": [
+            "country-sn"
+        ], 
+        "id": "5af9f47b-79f3-4458-add6-bea8792b8944", 
+        "isopen": false, 
+        "license": null, 
+        "license_id": "", 
+        "license_title": "", 
+        "maintainer": "", 
+        "maintainer_email": "", 
+        "metadata_created": "2013-03-29T12:31:50.388676", 
+        "metadata_modified": "2013-04-15T11:50:12.613950", 
+        "name": "indices-des-prix-la-production-industrielle-ippi-juillet-2011", 
+        "notes": "", 
+        "notes_rendered": "", 
+        "ratings_average": null, 
+        "ratings_count": 0, 
+        "relationships": [], 
+        "resources": [
+            {
+                "cache_last_updated": null, 
+                "cache_url": "", 
+                "created": "2013-03-29T07:31:50.532312", 
+                "description": "", 
+                "format": "", 
+                "hash": "", 
+                "id": "881dbbc6-9d40-4f35-8dae-f3d21af22408", 
+                "last_modified": "2013-03-29T07:31:53.400230", 
+                "mimetype": "application/pdf", 
+                "mimetype_inner": "", 
+                "name": "", 
+                "package_id": "5af9f47b-79f3-4458-add6-bea8792b8944", 
+                "position": 0, 
+                "resource_group_id": "bd3f087b-fd52-4d15-b22d-612812531f7d", 
+                "resource_type": "", 
+                "size": "658034", 
+                "tracking_summary": {
+                    "recent": 0, 
+                    "total": 0
+                }, 
+                "url": "http://www.ansd.sn/publications/conjoncturelles/IPPI/mensuel/IPPI_07_11.pdf", 
+                "webstore_last_updated": null, 
+                "webstore_url": ""
+            }
+        ], 
+        "revision_id": "f4697837-a41b-4162-b52d-8c035584f9b9", 
+        "state": "active", 
+        "tags": [
+            "ANSD", 
+            "Senegal", 
+            "donnees", 
+            "menages", 
+            "publications"
+        ], 
+        "title": "Indices des Prix \u00e0 la Production industrielle (IPPI) Juillet 2011", 
+        "tracking_summary": {
+            "recent": 0, 
+            "total": 0
+        }, 
+        "type": null, 
+        "url": "http://www.ansd.sn/publications/conjoncturelles/IPPI/mensuel/IPPI_07_11.pdf", 
+        "version": ""
+    }, 
+    {
+        "author": "", 
+        "author_email": "", 
+        "ckan_url": "http://thedatahub.org/dataset/indices-des-prix-la-production-industrielle-ippi-juin-2011", 
+        "download_url": "http://www.ansd.sn/publications/conjoncturelles/IPPI/mensuel/IPPI_06_11.pdf", 
+        "extras": {}, 
+        "groups": [
+            "country-sn"
+        ], 
+        "id": "672468cf-54fe-4eb0-8d43-57c1fac75a89", 
+        "isopen": false, 
+        "license": null, 
+        "license_id": "", 
+        "license_title": "", 
+        "maintainer": "", 
+        "maintainer_email": "", 
+        "metadata_created": "2013-03-29T10:20:02.474138", 
+        "metadata_modified": "2013-04-15T11:46:45.047779", 
+        "name": "indices-des-prix-la-production-industrielle-ippi-juin-2011", 
+        "notes": "", 
+        "notes_rendered": "", 
+        "ratings_average": null, 
+        "ratings_count": 0, 
+        "relationships": [], 
+        "resources": [
+            {
+                "cache_last_updated": null, 
+                "cache_url": "", 
+                "created": "2013-03-29T05:20:02.650402", 
+                "description": "", 
+                "format": "", 
+                "hash": "", 
+                "id": "968029a9-b215-4935-b54f-217fd6eb155c", 
+                "last_modified": "2013-03-29T05:20:04.898017", 
+                "mimetype": "application/pdf", 
+                "mimetype_inner": "", 
+                "name": "", 
+                "package_id": "672468cf-54fe-4eb0-8d43-57c1fac75a89", 
+                "position": 0, 
+                "resource_group_id": "1a9fbd07-17cb-4bf8-80a0-f3d198d8a00a", 
+                "resource_type": "", 
+                "size": "438472", 
+                "tracking_summary": {
+                    "recent": 0, 
+                    "total": 0
+                }, 
+                "url": "http://www.ansd.sn/publications/conjoncturelles/IPPI/mensuel/IPPI_06_11.pdf", 
+                "webstore_last_updated": null, 
+                "webstore_url": ""
+            }
+        ], 
+        "revision_id": "8602276c-0ae4-4ccd-82fb-57a512cb2422", 
+        "state": "active", 
+        "tags": [
+            "ANSD", 
+            "Senegal", 
+            "donnees", 
+            "menages", 
+            "publications"
+        ], 
+        "title": "Indices des Prix \u00e0 la Production industrielle (IPPI) Juin 2011", 
+        "tracking_summary": {
+            "recent": 0, 
+            "total": 0
+        }, 
+        "type": null, 
+        "url": "http://www.ansd.sn/publications/conjoncturelles/IPPI/mensuel/IPPI_06_11.pdf", 
+        "version": ""
+    }, 
+    {
+        "author": "", 
+        "author_email": "", 
+        "ckan_url": "http://thedatahub.org/dataset/indices-des-prix-la-production-industrielle-ippi-mai-2011", 
+        "download_url": "http://www.ansd.sn/publications/conjoncturelles/IPPI/mensuel/IPPI_05_11.pdf", 
+        "extras": {}, 
+        "groups": [
+            "country-sn"
+        ], 
+        "id": "85581068-35cc-4c58-b910-38fdcf98cc1e", 
+        "isopen": false, 
+        "license": null, 
+        "license_id": "", 
+        "license_title": "", 
+        "maintainer": "", 
+        "maintainer_email": "", 
+        "metadata_created": "2013-03-29T19:09:22.938844", 
+        "metadata_modified": "2013-04-15T12:36:21.866074", 
+        "name": "indices-des-prix-la-production-industrielle-ippi-mai-2011", 
+        "notes": "", 
+        "notes_rendered": "", 
+        "ratings_average": null, 
+        "ratings_count": 0, 
+        "relationships": [], 
+        "resources": [
+            {
+                "cache_last_updated": null, 
+                "cache_url": "", 
+                "created": "2013-03-29T14:09:23.121825", 
+                "description": "", 
+                "format": "", 
+                "hash": "", 
+                "id": "df529299-b83c-4f30-8e28-022b9e80388e", 
+                "last_modified": "2013-03-29T14:09:24.366081", 
+                "mimetype": "application/pdf", 
+                "mimetype_inner": "", 
+                "name": "", 
+                "package_id": "85581068-35cc-4c58-b910-38fdcf98cc1e", 
+                "position": 0, 
+                "resource_group_id": "50018577-699e-431f-8886-0b6f02b262d8", 
+                "resource_type": "", 
+                "size": "445899", 
+                "tracking_summary": {
+                    "recent": 0, 
+                    "total": 0
+                }, 
+                "url": "http://www.ansd.sn/publications/conjoncturelles/IPPI/mensuel/IPPI_05_11.pdf", 
+                "webstore_last_updated": null, 
+                "webstore_url": ""
+            }
+        ], 
+        "revision_id": "14780153-1fe3-4db1-9f65-18a75815b284", 
+        "state": "active", 
+        "tags": [
+            "ANSD", 
+            "Senegal", 
+            "donnees", 
+            "menages", 
+            "publications"
+        ], 
+        "title": "Indices des Prix \u00e0 la Production industrielle (IPPI) Mai 2011", 
+        "tracking_summary": {
+            "recent": 0, 
+            "total": 0
+        }, 
+        "type": null, 
+        "url": "http://www.ansd.sn/publications/conjoncturelles/IPPI/mensuel/IPPI_05_11.pdf", 
+        "version": ""
+    }, 
+    {
+        "author": "", 
+        "author_email": "", 
+        "ckan_url": "http://thedatahub.org/dataset/indices-des-prix-la-production-industrielle-ippi-mars-2011", 
+        "download_url": "http://www.ansd.sn/publications/conjoncturelles/IPPI/mensuel/IPPI_03_11.pdf", 
+        "extras": {}, 
+        "groups": [
+            "country-sn"
+        ], 
+        "id": "e1c32a9e-a6b3-4a4e-bc88-9b5c5096237f", 
+        "isopen": false, 
+        "license": null, 
+        "license_id": "", 
+        "license_title": "", 
+        "maintainer": "", 
+        "maintainer_email": "", 
+        "metadata_created": "2013-03-29T19:09:35.617790", 
+        "metadata_modified": "2013-04-15T12:30:13.890069", 
+        "name": "indices-des-prix-la-production-industrielle-ippi-mars-2011", 
+        "notes": "", 
+        "notes_rendered": "", 
+        "ratings_average": null, 
+        "ratings_count": 0, 
+        "relationships": [], 
+        "resources": [
+            {
+                "cache_last_updated": null, 
+                "cache_url": "", 
+                "created": "2013-03-29T14:09:35.930312", 
+                "description": "", 
+                "format": "", 
+                "hash": "", 
+                "id": "30ef7205-4ba4-44cb-89b1-05efa9bf11f4", 
+                "last_modified": "2013-03-29T14:09:38.862673", 
+                "mimetype": "application/pdf", 
+                "mimetype_inner": "", 
+                "name": "", 
+                "package_id": "e1c32a9e-a6b3-4a4e-bc88-9b5c5096237f", 
+                "position": 0, 
+                "resource_group_id": "e83b8e4d-f30a-47b1-be3d-640811ce3c22", 
+                "resource_type": "", 
+                "size": "462343", 
+                "tracking_summary": {
+                    "recent": 0, 
+                    "total": 0
+                }, 
+                "url": "http://www.ansd.sn/publications/conjoncturelles/IPPI/mensuel/IPPI_03_11.pdf", 
+                "webstore_last_updated": null, 
+                "webstore_url": ""
+            }
+        ], 
+        "revision_id": "249fb4df-1774-4c92-b3ed-ba4704bbe3ca", 
+        "state": "active", 
+        "tags": [
+            "ANSD", 
+            "Senegal", 
+            "donnees", 
+            "menages", 
+            "publications"
+        ], 
+        "title": "Indices des Prix \u00e0 la Production industrielle (IPPI) Mars 2011", 
+        "tracking_summary": {
+            "recent": 0, 
+            "total": 0
+        }, 
+        "type": null, 
+        "url": "http://www.ansd.sn/publications/conjoncturelles/IPPI/mensuel/IPPI_03_11.pdf", 
+        "version": ""
+    }, 
+    {
+        "author": "", 
+        "author_email": "", 
+        "ckan_url": "http://thedatahub.org/dataset/indices-des-prix-la-production-industrielle-ippi-novembre-2012", 
+        "download_url": "http://www.ansd.sn/publications/conjoncturelles/IPPI/mensuel/IPPI_11_12.pdf", 
+        "extras": {}, 
+        "groups": [
+            "country-sn"
+        ], 
+        "id": "f1bd5745-9948-40cf-aee6-ce1855b96dfa", 
+        "isopen": false, 
+        "license": null, 
+        "license_id": "", 
+        "license_title": "", 
+        "maintainer": "", 
+        "maintainer_email": "", 
+        "metadata_created": "2013-03-29T10:18:20.801629", 
+        "metadata_modified": "2013-04-15T12:03:20.339473", 
+        "name": "indices-des-prix-la-production-industrielle-ippi-novembre-2012", 
+        "notes": "", 
+        "notes_rendered": "", 
+        "ratings_average": null, 
+        "ratings_count": 0, 
+        "relationships": [], 
+        "resources": [
+            {
+                "cache_last_updated": null, 
+                "cache_url": "", 
+                "created": "2013-03-29T05:18:20.989654", 
+                "description": "", 
+                "format": "", 
+                "hash": "", 
+                "id": "036e0db2-f6c0-42c0-89b1-14100dbc75b1", 
+                "last_modified": "2013-03-29T05:18:25.991333", 
+                "mimetype": "application/pdf", 
+                "mimetype_inner": "", 
+                "name": "", 
+                "package_id": "f1bd5745-9948-40cf-aee6-ce1855b96dfa", 
+                "position": 0, 
+                "resource_group_id": "1f5eb6b6-b4c3-47d3-b97b-52d058e84af8", 
+                "resource_type": "", 
+                "size": "461838", 
+                "tracking_summary": {
+                    "recent": 0, 
+                    "total": 0
+                }, 
+                "url": "http://www.ansd.sn/publications/conjoncturelles/IPPI/mensuel/IPPI_11_12.pdf", 
+                "webstore_last_updated": null, 
+                "webstore_url": ""
+            }
+        ], 
+        "revision_id": "f46773fe-a76a-482e-ae7e-fb899ad71462", 
+        "state": "active", 
+        "tags": [
+            "ANSD", 
+            "Senegal", 
+            "donnees", 
+            "menages", 
+            "publications"
+        ], 
+        "title": "Indices des Prix \u00e0 la Production industrielle (IPPI) Novembre 2012", 
+        "tracking_summary": {
+            "recent": 0, 
+            "total": 0
+        }, 
+        "type": null, 
+        "url": "http://www.ansd.sn/publications/conjoncturelles/IPPI/mensuel/IPPI_11_12.pdf", 
+        "version": ""
+    }, 
+    {
+        "author": "", 
+        "author_email": "", 
+        "ckan_url": "http://thedatahub.org/dataset/indices-des-prix-la-production-industrielle-ippi-octobre-2012", 
+        "download_url": "http://www.ansd.sn/publications/conjoncturelles/IPPI/mensuel/IPPI_10_12.pdf", 
+        "extras": {}, 
+        "groups": [
+            "country-sn"
+        ], 
+        "id": "030bb50b-29d7-4c0b-8364-4bf73258ce57", 
+        "isopen": false, 
+        "license": null, 
+        "license_id": "", 
+        "license_title": "", 
+        "maintainer": "", 
+        "maintainer_email": "", 
+        "metadata_created": "2013-03-29T10:18:29.246489", 
+        "metadata_modified": "2013-04-15T12:00:43.223364", 
+        "name": "indices-des-prix-la-production-industrielle-ippi-octobre-2012", 
+        "notes": "", 
+        "notes_rendered": "", 
+        "ratings_average": null, 
+        "ratings_count": 0, 
+        "relationships": [], 
+        "resources": [
+            {
+                "cache_last_updated": null, 
+                "cache_url": "", 
+                "created": "2013-03-29T05:18:29.396879", 
+                "description": "", 
+                "format": "", 
+                "hash": "", 
+                "id": "9de26d4e-3673-4f97-a26b-21cb26ab0407", 
+                "last_modified": "2013-03-29T05:18:37.940108", 
+                "mimetype": "application/pdf", 
+                "mimetype_inner": "", 
+                "name": "", 
+                "package_id": "030bb50b-29d7-4c0b-8364-4bf73258ce57", 
+                "position": 0, 
+                "resource_group_id": "10c3ded4-7fd6-49c0-a318-7c718e92a59e", 
+                "resource_type": "", 
+                "size": "497865", 
+                "tracking_summary": {
+                    "recent": 0, 
+                    "total": 0
+                }, 
+                "url": "http://www.ansd.sn/publications/conjoncturelles/IPPI/mensuel/IPPI_10_12.pdf", 
+                "webstore_last_updated": null, 
+                "webstore_url": ""
+            }
+        ], 
+        "revision_id": "8adbcd55-80a8-4a0c-8818-4b476940dddb", 
+        "state": "active", 
+        "tags": [
+            "ANSD", 
+            "Senegal", 
+            "donnees", 
+            "menages", 
+            "publications"
+        ], 
+        "title": "Indices des Prix \u00e0 la Production industrielle (IPPI) Octobre 2012", 
+        "tracking_summary": {
+            "recent": 0, 
+            "total": 0
+        }, 
+        "type": null, 
+        "url": "http://www.ansd.sn/publications/conjoncturelles/IPPI/mensuel/IPPI_10_12.pdf", 
+        "version": ""
+    }, 
+    {
+        "author": "", 
+        "author_email": "", 
+        "ckan_url": "http://thedatahub.org/dataset/rapport-d-activit-s-ansd-2008", 
+        "download_url": "http://www.ansd.sn/intitutionnel/RAP_ANSD_2008.pdf", 
+        "extras": {}, 
+        "groups": [
+            "country-sn"
+        ], 
+        "id": "efad8a9e-4711-4f97-9e8a-15f766882979", 
+        "isopen": false, 
+        "license": null, 
+        "license_id": "", 
+        "license_title": "", 
+        "maintainer": "", 
+        "maintainer_email": "", 
+        "metadata_created": "2013-03-29T10:31:29.202400", 
+        "metadata_modified": "2013-04-07T16:48:29.931470", 
+        "name": "rapport-d-activit-s-ansd-2008", 
+        "notes": "    \u00a0Mai\u00a02009\u00a0\u00a0\f    AGENCE NATIONALE DE LA STATISTIQUE ET DE LA DEMOGRAPHIE Rue de Diourbel X Rue de StLouis   Point E  Dakar BP 116 Dakar  RP  S\u00e9n\u00e9gal T\u00e9l\u00e9phone (221)  33 869 21 39 / 33 869 21 60  Fax (221) 33 824 36 15 Site web : wwwansdsn ; Email: statsenegal@ansdsn   ; statsenegal@yahoofr Distribution : Division de la Documentation, de la Diffusion et des Relations avec les Usagers ISSN 08501491 \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0ANSD\u00a0:\u00a0Rapport\u00a0dactivit\u00e9s\u00a02008\u00a0 AVANT\u00a0PROPOS\u00a0 \u00a01\u00a0\f", 
+        "notes_rendered": "<pre><code>\u00a0Mai\u00a02009\u00a0\u00a0\f    AGENCE NATIONALE DE LA STATISTIQUE ET DE LA DEMOGRAPHIE Rue de Diourbel X Rue de StLouis   Point E  Dakar BP 116 Dakar  RP  S\u00e9n\u00e9gal T\u00e9l\u00e9phone (221)  33 869 21 39 / 33 869 21 60  Fax (221) 33 824 36 15 Site web : wwwansdsn ; Email: statsenegal@ansdsn   ; statsenegal@yahoofr Distribution : Division de la Documentation, de la Diffusion et des Relations avec les Usagers ISSN 08501491 \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0ANSD\u00a0:\u00a0Rapport\u00a0dactivit\u00e9s\u00a02008\u00a0 AVANT\u00a0PROPOS\u00a0 \u00a01\n</code></pre>", 
+        "ratings_average": null, 
+        "ratings_count": 0, 
+        "relationships": [], 
+        "resources": [
+            {
+                "cache_last_updated": null, 
+                "cache_url": "", 
+                "created": "2013-03-29T05:31:29.407483", 
+                "description": "", 
+                "format": "", 
+                "hash": "", 
+                "id": "1e4520d4-53db-43a2-b8b7-b3514aafca20", 
+                "last_modified": "2013-03-29T05:31:32.053041", 
+                "mimetype": "application/pdf", 
+                "mimetype_inner": "", 
+                "name": "", 
+                "package_id": "efad8a9e-4711-4f97-9e8a-15f766882979", 
+                "position": 0, 
+                "resource_group_id": "bb9f22c0-e339-49d2-a3f5-09ea3e8879d5", 
+                "resource_type": "", 
+                "size": "487098", 
+                "tracking_summary": {
+                    "recent": 0, 
+                    "total": 0
+                }, 
+                "url": "http://www.ansd.sn/intitutionnel/RAP_ANSD_2008.pdf", 
+                "webstore_last_updated": null, 
+                "webstore_url": ""
+            }
+        ], 
+        "revision_id": "c08812cc-dd54-4109-88d7-8f42bf5e7854", 
+        "state": "active", 
+        "tags": [
+            "ANSD", 
+            "Senegal", 
+            "donnees", 
+            "menages", 
+            "publications"
+        ], 
+        "title": "Rapport d'activit\u00e9s ANSD 2008", 
+        "tracking_summary": {
+            "recent": 0, 
+            "total": 0
+        }, 
+        "type": null, 
+        "url": "http://www.ansd.sn/intitutionnel/RAP_ANSD_2008.pdf", 
+        "version": ""
+    }, 
+    {
+        "author": "", 
+        "author_email": "", 
+        "ckan_url": "http://thedatahub.org/dataset/rapport-d-activit-s-ansd-2009", 
+        "download_url": "http://www.ansd.sn/intitutionnel/RAP_ANSD_2009.pdf", 
+        "extras": {}, 
+        "groups": [
+            "country-sn"
+        ], 
+        "id": "7edaf97c-efec-423e-8000-a9d955ac0181", 
+        "isopen": false, 
+        "license": null, 
+        "license_id": "", 
+        "license_title": "", 
+        "maintainer": "", 
+        "maintainer_email": "", 
+        "metadata_created": "2013-03-29T10:31:26.682284", 
+        "metadata_modified": "2013-04-07T16:49:18.884676", 
+        "name": "rapport-d-activit-s-ansd-2009", 
+        "notes": "    \u00a0Avril\u00a02010\u00a0\u00a0\f\u00a0    AGENCE NATIONALE DE LA STATISTIQUE ET DE LA DEMOGRAPHIE Rue de Diourbel X Rue de StLouis   Point E  Dakar BP 116 Dakar  RP  S\u00e9n\u00e9gal T\u00e9l\u00e9phone (221)  33 869 21 39 / 33 869 21 60  Fax (221) 33 824 36 15 Site web : wwwansdsn ; Email: statsenegal@ansdsn  Distribution : Division de la Documentation, de la Diffusion et des Relations avec les Usagers ISSN 08501491 \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0ANSD\u00a0:\u00a0Rapport\u00a0dactivit\u00e9s\u00a02009\u00a0 AVANT\u00a0PROPOS\u00a0 1\u00a0\f", 
+        "notes_rendered": "<pre><code>\u00a0Avril\u00a02010\u00a0\u00a0\f\u00a0    AGENCE NATIONALE DE LA STATISTIQUE ET DE LA DEMOGRAPHIE Rue de Diourbel X Rue de StLouis   Point E  Dakar BP 116 Dakar  RP  S\u00e9n\u00e9gal T\u00e9l\u00e9phone (221)  33 869 21 39 / 33 869 21 60  Fax (221) 33 824 36 15 Site web : wwwansdsn ; Email: statsenegal@ansdsn  Distribution : Division de la Documentation, de la Diffusion et des Relations avec les Usagers ISSN 08501491 \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0ANSD\u00a0:\u00a0Rapport\u00a0dactivit\u00e9s\u00a02009\u00a0 AVANT\u00a0PROPOS\u00a0 1\n</code></pre>", 
+        "ratings_average": null, 
+        "ratings_count": 0, 
+        "relationships": [], 
+        "resources": [
+            {
+                "cache_last_updated": null, 
+                "cache_url": "", 
+                "created": "2013-03-29T05:31:26.831235", 
+                "description": "", 
+                "format": "", 
+                "hash": "", 
+                "id": "18106523-eef6-4643-b41a-4fd2be9e3e66", 
+                "last_modified": "2013-03-29T05:31:28.106875", 
+                "mimetype": "application/pdf", 
+                "mimetype_inner": "", 
+                "name": "", 
+                "package_id": "7edaf97c-efec-423e-8000-a9d955ac0181", 
+                "position": 0, 
+                "resource_group_id": "57e39540-a47a-4096-a939-366e9bf348e7", 
+                "resource_type": "", 
+                "size": "573284", 
+                "tracking_summary": {
+                    "recent": 0, 
+                    "total": 0
+                }, 
+                "url": "http://www.ansd.sn/intitutionnel/RAP_ANSD_2009.pdf", 
+                "webstore_last_updated": null, 
+                "webstore_url": ""
+            }
+        ], 
+        "revision_id": "2774b82f-8207-44c4-9927-ab462735cb81", 
+        "state": "active", 
+        "tags": [
+            "ANSD", 
+            "Senegal", 
+            "donnees", 
+            "menages", 
+            "publications"
+        ], 
+        "title": "Rapport d'activit\u00e9s ANSD 2009", 
+        "tracking_summary": {
+            "recent": 0, 
+            "total": 0
+        }, 
+        "type": null, 
+        "url": "http://www.ansd.sn/intitutionnel/RAP_ANSD_2009.pdf", 
+        "version": ""
+    }, 
+    {
+        "author": "", 
+        "author_email": "", 
+        "ckan_url": "http://thedatahub.org/dataset/volutions-conomiques-r-centes-troisi-me-trimestre-2012", 
+        "download_url": "http://www.ansd.sn/publications/conjoncturelles/NCE/NEER_T3_2012.pdf", 
+        "extras": {}, 
+        "groups": [
+            "country-sn"
+        ], 
+        "id": "0d0df412-f460-4c47-b738-948679022635", 
+        "isopen": false, 
+        "license": null, 
+        "license_id": "", 
+        "license_title": "", 
+        "maintainer": "", 
+        "maintainer_email": "", 
+        "metadata_created": "2013-03-28T21:47:49.423396", 
+        "metadata_modified": "2013-04-15T11:23:46.422835", 
+        "name": "volutions-conomiques-r-centes-troisi-me-trimestre-2012", 
+        "notes": "", 
+        "notes_rendered": "", 
+        "ratings_average": null, 
+        "ratings_count": 0, 
+        "relationships": [], 
+        "resources": [
+            {
+                "cache_last_updated": null, 
+                "cache_url": "", 
+                "created": "2013-03-28T16:47:49.494142", 
+                "description": "", 
+                "format": "", 
+                "hash": "", 
+                "id": "f615f54b-d15a-4457-8f1b-310ac8f97186", 
+                "last_modified": "2013-03-28T16:50:22.293396", 
+                "mimetype": "application/pdf", 
+                "mimetype_inner": "", 
+                "name": "", 
+                "package_id": "0d0df412-f460-4c47-b738-948679022635", 
+                "position": 0, 
+                "resource_group_id": "b8f7307f-08b6-4a4d-afe4-91cf2e1fff24", 
+                "resource_type": "", 
+                "size": "1066975", 
+                "tracking_summary": {
+                    "recent": 0, 
+                    "total": 0
+                }, 
+                "url": "http://www.ansd.sn/publications/conjoncturelles/NCE/NEER_T3_2012.pdf", 
+                "webstore_last_updated": null, 
+                "webstore_url": ""
+            }
+        ], 
+        "revision_id": "4bd8662c-4aee-4941-8db0-1d35491ffe13", 
+        "state": "active", 
+        "tags": [
+            "ANSD", 
+            "Senegal", 
+            "donnees", 
+            "menages", 
+            "publications"
+        ], 
+        "title": "\u00c9volutions \u00c9conomiques R\u00e9centes Troisi\u00e8me trimestre 2012", 
+        "tracking_summary": {
+            "recent": 0, 
+            "total": 0
+        }, 
+        "type": null, 
+        "url": "http://www.ansd.sn/publications/conjoncturelles/NCE/NEER_T3_2012.pdf", 
+        "version": ""
+    }, 
+    {
+        "author": "", 
+        "author_email": "", 
+        "ckan_url": "http://thedatahub.org/dataset/rapport-d-activit-s-ansd-2000", 
+        "download_url": "http://www.ansd.sn/intitutionnel/RAPPACT-2000.pdf", 
+        "extras": {}, 
+        "groups": [
+            "country-sn"
+        ], 
+        "id": "da4d3d49-0bc5-4a86-8a9e-38e68a87e301", 
+        "isopen": false, 
+        "license": null, 
+        "license_id": "", 
+        "license_title": "", 
+        "maintainer": "", 
+        "maintainer_email": "", 
+        "metadata_created": "2013-04-03T22:59:52.854538", 
+        "metadata_modified": "2013-04-07T17:14:39.704550", 
+        "name": "rapport-d-activit-s-ansd-2000", 
+        "notes": "         REPUBLIQUE DU SENEGAL        MINISTERE DE LECONOMIE ET DES FINANCES                                               DIRECTION DE LA PREVISION ET DE LA STATISTIQUE \f                                                                       SOMMAIRE                                                                                                                                   PAGES                                                                         1  ADMINISTRATION   2 MISSION DE LA DIRECTION ET ORGANIGRAMME  3  DIRECTION   4 SERVICE  ADMINISTRATIF ET FINANCIER  5  INSPECTION DES SERVICES  6  SERVICE  DE LA DOCUMENTATION, DES PUBLICATIONS ET DE LA DIFFUSION     7  DIVISION DES ETUDES ET DES PROJECTIONS MACROECONOMIQUES  8  DIVISION DES STATISTIQUES ECONOMIQUES ET DE LA COMPTABILITE      9  DIVISION DES STATISTIQUES DEMOGRAPHIQUES  10 LES SERVICES  REGIONAUX  11 LES PUBLICATIONS DE LA DPS           NATIONALE                         2 \f", 
+        "notes_rendered": "<pre><code>     REPUBLIQUE DU SENEGAL        MINISTERE DE LECONOMIE ET DES FINANCES                                               DIRECTION DE LA PREVISION ET DE LA STATISTIQUE \f                                                                       SOMMAIRE                                                                                                                                   PAGES                                                                         1  ADMINISTRATION   2 MISSION DE LA DIRECTION ET ORGANIGRAMME  3  DIRECTION   4 SERVICE  ADMINISTRATIF ET FINANCIER  5  INSPECTION DES SERVICES  6  SERVICE  DE LA DOCUMENTATION, DES PUBLICATIONS ET DE LA DIFFUSION     7  DIVISION DES ETUDES ET DES PROJECTIONS MACROECONOMIQUES  8  DIVISION DES STATISTIQUES ECONOMIQUES ET DE LA COMPTABILITE      9  DIVISION DES STATISTIQUES DEMOGRAPHIQUES  10 LES SERVICES  REGIONAUX  11 LES PUBLICATIONS DE LA DPS           NATIONALE                         2\n</code></pre>", 
+        "ratings_average": null, 
+        "ratings_count": 0, 
+        "relationships": [], 
+        "resources": [
+            {
+                "cache_last_updated": null, 
+                "cache_url": "", 
+                "created": "2013-04-03T17:59:52.999062", 
+                "description": "", 
+                "format": "", 
+                "hash": "", 
+                "id": "c8aa0aec-1fc0-4bdd-a569-e7e29820be0e", 
+                "last_modified": "2013-04-03T17:59:56.400828", 
+                "mimetype": "application/pdf", 
+                "mimetype_inner": "", 
+                "name": "", 
+                "package_id": "da4d3d49-0bc5-4a86-8a9e-38e68a87e301", 
+                "position": 0, 
+                "resource_group_id": "b76c31de-0d18-43c4-8071-3d3f1720b559", 
+                "resource_type": "", 
+                "size": "315788", 
+                "tracking_summary": {
+                    "recent": 0, 
+                    "total": 0
+                }, 
+                "url": "http://www.ansd.sn/intitutionnel/RAPPACT-2000.pdf", 
+                "webstore_last_updated": null, 
+                "webstore_url": ""
+            }
+        ], 
+        "revision_id": "89b1d636-1813-43c4-b040-4131b346dbf8", 
+        "state": "active", 
+        "tags": [
+            "ANSD", 
+            "Senegal", 
+            "donnees", 
+            "menages", 
+            "publications"
+        ], 
+        "title": "Rapport d'activit\u00e9s ANSD 2000", 
+        "tracking_summary": {
+            "recent": 0, 
+            "total": 0
+        }, 
+        "type": null, 
+        "url": "http://www.ansd.sn/intitutionnel/RAPPACT-2000.pdf", 
+        "version": ""
+    }, 
+    {
+        "author": "", 
+        "author_email": "", 
+        "ckan_url": "http://thedatahub.org/dataset/banque-de-donn-es-economiques-et-financi-res-2009-2010", 
+        "download_url": "http://www.ansd.sn/publications/annuelles/BDEF_Def2009_Prov2010.pdf", 
+        "extras": {}, 
+        "groups": [
+            "country-sn"
+        ], 
+        "id": "3cea4615-6930-4113-be95-56fbfbd89c1f", 
+        "isopen": false, 
+        "license": null, 
+        "license_id": "", 
+        "license_title": "", 
+        "maintainer": "", 
+        "maintainer_email": "", 
+        "metadata_created": "2013-03-29T10:28:23.278212", 
+        "metadata_modified": "2013-04-07T17:42:13.266649", 
+        "name": "banque-de-donn-es-economiques-et-financi-res-2009-2010", 
+        "notes": "", 
+        "notes_rendered": "", 
+        "ratings_average": null, 
+        "ratings_count": 0, 
+        "relationships": [], 
+        "resources": [
+            {
+                "cache_last_updated": null, 
+                "cache_url": "", 
+                "created": "2013-03-29T05:28:23.379825", 
+                "description": "", 
+                "format": "", 
+                "hash": "", 
+                "id": "ccbe0d10-31c9-49cf-ac37-4bf5ddc80aaf", 
+                "last_modified": "2013-03-29T05:28:39.070587", 
+                "mimetype": "application/pdf", 
+                "mimetype_inner": "", 
+                "name": "", 
+                "package_id": "3cea4615-6930-4113-be95-56fbfbd89c1f", 
+                "position": 0, 
+                "resource_group_id": "c0cfcd4a-caa3-4a47-8374-99cecaf86138", 
+                "resource_type": "", 
+                "size": "3560926", 
+                "tracking_summary": {
+                    "recent": 0, 
+                    "total": 0
+                }, 
+                "url": "http://www.ansd.sn/publications/annuelles/BDEF_Def2009_Prov2010.pdf", 
+                "webstore_last_updated": null, 
+                "webstore_url": ""
+            }
+        ], 
+        "revision_id": "345c95be-d9c0-4f3b-a024-a4063903d32f", 
+        "state": "active", 
+        "tags": [
+            "ANSD", 
+            "Senegal", 
+            "donnees", 
+            "menages", 
+            "publications"
+        ], 
+        "title": "Banque de Donn\u00e9es Economiques et Financi\u00e8res 2009-2010", 
+        "tracking_summary": {
+            "recent": 0, 
+            "total": 0
+        }, 
+        "type": null, 
+        "url": "http://www.ansd.sn/publications/annuelles/BDEF_Def2009_Prov2010.pdf", 
+        "version": ""
+    }, 
+    {
+        "author": "", 
+        "author_email": "", 
+        "ckan_url": "http://thedatahub.org/dataset/enqu-te-d-mographique-et-de-sant-au-s-n-gal-1986", 
+        "download_url": "http://www.ansd.sn/publications/rapports_enquetes_etudes/enquetes/Rapport_EDS-1.pdf", 
+        "extras": {}, 
+        "groups": [
+            "country-sn"
+        ], 
+        "id": "07a6519d-2886-4bcd-a336-88744673bd25", 
+        "isopen": false, 
+        "license": null, 
+        "license_id": "", 
+        "license_title": "", 
+        "maintainer": "", 
+        "maintainer_email": "", 
+        "metadata_created": "2013-03-28T21:37:59.281933", 
+        "metadata_modified": "2013-04-09T10:15:11.900817", 
+        "name": "enqu-te-d-mographique-et-de-sant-au-s-n-gal-1986", 
+        "notes": "", 
+        "notes_rendered": "", 
+        "ratings_average": null, 
+        "ratings_count": 0, 
+        "relationships": [], 
+        "resources": [
+            {
+                "cache_last_updated": null, 
+                "cache_url": "", 
+                "created": "2013-03-28T16:37:59.439796", 
+                "description": "", 
+                "format": "", 
+                "hash": "", 
+                "id": "6b34509c-2cf4-4932-89a9-15fe25e450ff", 
+                "last_modified": "2013-03-28T16:39:15.214066", 
+                "mimetype": "application/pdf", 
+                "mimetype_inner": "", 
+                "name": "", 
+                "package_id": "07a6519d-2886-4bcd-a336-88744673bd25", 
+                "position": 0, 
+                "resource_group_id": "7d60d50b-3d59-4eac-b3a9-2983b06fdfcc", 
+                "resource_type": "", 
+                "size": "5984723", 
+                "tracking_summary": {
+                    "recent": 0, 
+                    "total": 0
+                }, 
+                "url": "http://www.ansd.sn/publications/rapports_enquetes_etudes/enquetes/Rapport_EDS-1.pdf", 
+                "webstore_last_updated": null, 
+                "webstore_url": ""
+            }
+        ], 
+        "revision_id": "eb681ba9-c45b-4953-8731-d762c1ba9a94", 
+        "state": "active", 
+        "tags": [
+            "ANSD", 
+            "Senegal", 
+            "donnees", 
+            "menages", 
+            "publications"
+        ], 
+        "title": "Enqu\u00eate D\u00e9mographique et de Sant\u00e9 au S\u00e9n\u00e9gal 1986", 
+        "tracking_summary": {
+            "recent": 0, 
+            "total": 0
+        }, 
+        "type": null, 
+        "url": "http://www.ansd.sn/publications/rapports_enquetes_etudes/enquetes/Rapport_EDS-1.pdf", 
+        "version": ""
+    }, 
+    {
+        "author": "", 
+        "author_email": "", 
+        "ckan_url": "http://thedatahub.org/dataset/enqu-te-d-mographique-et-de-sant-au-s-n-gal-eds-ii-1992-93", 
+        "download_url": "http://www.ansd.sn/publications/rapports_enquetes_etudes/enquetes/Rapport_EDS-2.pdf", 
+        "extras": {}, 
+        "groups": [
+            "country-sn"
+        ], 
+        "id": "2f835a8b-b045-438f-b627-6707d8ed5c85", 
+        "isopen": false, 
+        "license": null, 
+        "license_id": "", 
+        "license_title": "", 
+        "maintainer": "", 
+        "maintainer_email": "", 
+        "metadata_created": "2013-03-28T21:37:51.669745", 
+        "metadata_modified": "2013-04-09T10:18:13.945124", 
+        "name": "enqu-te-d-mographique-et-de-sant-au-s-n-gal-eds-ii-1992-93", 
+        "notes": "", 
+        "notes_rendered": "", 
+        "ratings_average": null, 
+        "ratings_count": 0, 
+        "relationships": [], 
+        "resources": [
+            {
+                "cache_last_updated": null, 
+                "cache_url": "", 
+                "created": "2013-03-28T16:37:51.778195", 
+                "description": "", 
+                "format": "", 
+                "hash": "", 
+                "id": "b9ba6e11-c700-4c3a-89a2-14162a77646a", 
+                "last_modified": "2013-03-28T16:39:03.241933", 
+                "mimetype": "application/pdf", 
+                "mimetype_inner": "", 
+                "name": "", 
+                "package_id": "2f835a8b-b045-438f-b627-6707d8ed5c85", 
+                "position": 0, 
+                "resource_group_id": "8376de2c-7b99-4c17-8429-405314e8979d", 
+                "resource_type": "", 
+                "size": "4791128", 
+                "tracking_summary": {
+                    "recent": 0, 
+                    "total": 0
+                }, 
+                "url": "http://www.ansd.sn/publications/rapports_enquetes_etudes/enquetes/Rapport_EDS-2.pdf", 
+                "webstore_last_updated": null, 
+                "webstore_url": ""
+            }
+        ], 
+        "revision_id": "0e7b4198-2f35-484a-9e45-906872693701", 
+        "state": "active", 
+        "tags": [
+            "ANSD", 
+            "Senegal", 
+            "donnees", 
+            "menages", 
+            "publications"
+        ], 
+        "title": "Enqu\u00eate D\u00e9mographique et de Sant\u00e9 au S\u00e9n\u00e9gal EDS-II 1992/93 ", 
+        "tracking_summary": {
+            "recent": 0, 
+            "total": 0
+        }, 
+        "type": null, 
+        "url": "http://www.ansd.sn/publications/rapports_enquetes_etudes/enquetes/Rapport_EDS-2.pdf", 
+        "version": ""
+    }, 
+    {
+        "author": "", 
+        "author_email": "", 
+        "ckan_url": "http://thedatahub.org/dataset/enqu-te-d-mographique-indicateurs-multiples-eds-mics-2010-2011", 
+        "download_url": "http://www.ansd.sn/publications/rapports_enquetes_etudes/enquetes/EDS-MICS_2010-11_Rapport-final.pdf", 
+        "extras": {}, 
+        "groups": [
+            "country-sn"
+        ], 
+        "id": "c523e61e-5ad6-468c-9f4f-70f418da1678", 
+        "isopen": false, 
+        "license": null, 
+        "license_id": "", 
+        "license_title": "", 
+        "maintainer": "", 
+        "maintainer_email": "", 
+        "metadata_created": "2013-03-28T21:37:28.565151", 
+        "metadata_modified": "2013-04-10T11:26:07.029532", 
+        "name": "enqu-te-d-mographique-indicateurs-multiples-eds-mics-2010-2011", 
+        "notes": "", 
+        "notes_rendered": "", 
+        "ratings_average": null, 
+        "ratings_count": 0, 
+        "relationships": [], 
+        "resources": [
+            {
+                "cache_last_updated": null, 
+                "cache_url": "", 
+                "created": "2013-03-28T16:37:28.794255", 
+                "description": "", 
+                "format": "", 
+                "hash": "", 
+                "id": "7561b44a-60c6-4588-94ad-7f3c07901d74", 
+                "last_modified": "2013-03-28T16:38:43.233959", 
+                "mimetype": "application/pdf", 
+                "mimetype_inner": "", 
+                "name": "", 
+                "package_id": "c523e61e-5ad6-468c-9f4f-70f418da1678", 
+                "position": 0, 
+                "resource_group_id": "5f2d6392-9127-4690-90e7-7d1ce81296c3", 
+                "resource_type": "", 
+                "size": "14025664", 
+                "tracking_summary": {
+                    "recent": 0, 
+                    "total": 0
+                }, 
+                "url": "http://www.ansd.sn/publications/rapports_enquetes_etudes/enquetes/EDS-MICS_2010-11_Rapport-final.pdf", 
+                "webstore_last_updated": null, 
+                "webstore_url": ""
+            }
+        ], 
+        "revision_id": "a1dc052d-74ac-4987-9ed8-2082946a7e98", 
+        "state": "active", 
+        "tags": [
+            "ANSD", 
+            "Senegal", 
+            "donnees", 
+            "menages", 
+            "publications"
+        ], 
+        "title": "Enqu\u00eate D\u00e9mographique \u00e0 Indicateurs Multiples EDS - MICS 2010 2011", 
+        "tracking_summary": {
+            "recent": 0, 
+            "total": 0
+        }, 
+        "type": null, 
+        "url": "http://www.ansd.sn/publications/rapports_enquetes_etudes/enquetes/EDS-MICS_2010-11_Rapport-final.pdf", 
+        "version": ""
+    }, 
+    {
+        "author": "", 
+        "author_email": "", 
+        "ckan_url": "http://thedatahub.org/dataset/evolution-annuelle-de-l-indice-harmonise-des-prix-la-consommation-en-2010", 
+        "download_url": "http://www.ansd.sn/publications/annuelles/EvolAnnuel_IHPC_2010.pdf", 
+        "extras": {}, 
+        "groups": [
+            "country-sn"
+        ], 
+        "id": "de09c81d-1196-479a-a1f6-4e4b6e57329b", 
+        "isopen": false, 
+        "license": null, 
+        "license_id": "", 
+        "license_title": "", 
+        "maintainer": "", 
+        "maintainer_email": "", 
+        "metadata_created": "2013-03-28T21:56:34.575103", 
+        "metadata_modified": "2013-04-07T19:45:10.643424", 
+        "name": "evolution-annuelle-de-l-indice-harmonise-des-prix-la-consommation-en-2010", 
+        "notes": "", 
+        "notes_rendered": "", 
+        "ratings_average": null, 
+        "ratings_count": 0, 
+        "relationships": [], 
+        "resources": [
+            {
+                "cache_last_updated": null, 
+                "cache_url": "", 
+                "created": "2013-03-28T16:56:34.659262", 
+                "description": "", 
+                "format": "", 
+                "hash": "", 
+                "id": "5a2deb6e-651d-4a63-bf84-6fe48504081e", 
+                "last_modified": "2013-03-28T17:00:47.180164", 
+                "mimetype": "application/pdf", 
+                "mimetype_inner": "", 
+                "name": "", 
+                "package_id": "de09c81d-1196-479a-a1f6-4e4b6e57329b", 
+                "position": 0, 
+                "resource_group_id": "6feb3395-af4d-4f13-8b33-cfacb7b97795", 
+                "resource_type": "", 
+                "size": "330829", 
+                "tracking_summary": {
+                    "recent": 0, 
+                    "total": 0
+                }, 
+                "url": "http://www.ansd.sn/publications/annuelles/EvolAnnuel_IHPC_2010.pdf", 
+                "webstore_last_updated": null, 
+                "webstore_url": ""
+            }
+        ], 
+        "revision_id": "958bd0b9-87da-4daf-b56d-b84f46999417", 
+        "state": "active", 
+        "tags": [
+            "ANSD", 
+            "Senegal", 
+            "donnees", 
+            "menages", 
+            "publications"
+        ], 
+        "title": "Evolution annuelle de l\u2019indice harmonise des prix \u00e0 la consommation en 2010", 
+        "tracking_summary": {
+            "recent": 0, 
+            "total": 0
+        }, 
+        "type": null, 
+        "url": "http://www.ansd.sn/publications/annuelles/EvolAnnuel_IHPC_2010.pdf", 
+        "version": ""
+    }, 
+    {
+        "author": "", 
+        "author_email": "", 
+        "ckan_url": "http://thedatahub.org/dataset/evolution-annuelle-de-l-indice-harmonise-des-prix-la-consommation-en-2011", 
+        "download_url": "http://www.ansd.sn/publications/annuelles/EvolAnnuel_IHPC_2011.pdf", 
+        "extras": {}, 
+        "groups": [
+            "country-sn"
+        ], 
+        "id": "65ec5a54-14a1-4419-a63f-e94804a016da", 
+        "isopen": false, 
+        "license": null, 
+        "license_id": "", 
+        "license_title": "", 
+        "maintainer": "", 
+        "maintainer_email": "", 
+        "metadata_created": "2013-03-28T21:56:32.310022", 
+        "metadata_modified": "2013-04-07T19:50:21.573718", 
+        "name": "evolution-annuelle-de-l-indice-harmonise-des-prix-la-consommation-en-2011", 
+        "notes": "", 
+        "notes_rendered": "", 
+        "ratings_average": null, 
+        "ratings_count": 0, 
+        "relationships": [], 
+        "resources": [
+            {
+                "cache_last_updated": null, 
+                "cache_url": "", 
+                "created": "2013-03-28T16:56:32.397336", 
+                "description": "", 
+                "format": "", 
+                "hash": "", 
+                "id": "a377ef73-8b28-4e15-896b-d1c765c97d4a", 
+                "last_modified": "2013-03-28T17:00:43.171124", 
+                "mimetype": "application/pdf", 
+                "mimetype_inner": "", 
+                "name": "", 
+                "package_id": "65ec5a54-14a1-4419-a63f-e94804a016da", 
+                "position": 0, 
+                "resource_group_id": "2cf0bc79-b871-4401-9514-d2570d9e0ba9", 
+                "resource_type": "", 
+                "size": "435920", 
+                "tracking_summary": {
+                    "recent": 0, 
+                    "total": 0
+                }, 
+                "url": "http://www.ansd.sn/publications/annuelles/EvolAnnuel_IHPC_2011.pdf", 
+                "webstore_last_updated": null, 
+                "webstore_url": ""
+            }
+        ], 
+        "revision_id": "f57e91f3-2156-45a0-b26f-11e9bf91c348", 
+        "state": "active", 
+        "tags": [
+            "ANSD", 
+            "Senegal", 
+            "donnees", 
+            "menages", 
+            "publications"
+        ], 
+        "title": "Evolution annuelle de l\u2019indice harmonise des prix \u00e0 la consommation en 2011", 
+        "tracking_summary": {
+            "recent": 0, 
+            "total": 0
+        }, 
+        "type": null, 
+        "url": "http://www.ansd.sn/publications/annuelles/EvolAnnuel_IHPC_2011.pdf", 
+        "version": ""
+    }, 
+    {
+        "author": "", 
+        "author_email": "", 
+        "ckan_url": "http://thedatahub.org/dataset/evolution-annuelle-de-l-indice-harmonise-des-prix-la-consommation-en-2012", 
+        "download_url": "http://www.ansd.sn/publications/annuelles/EvolAnnuel_IHPC_2012.pdf", 
+        "extras": {}, 
+        "groups": [
+            "country-sn"
+        ], 
+        "id": "bf0572a2-f459-4f92-8d85-2c292d093598", 
+        "isopen": false, 
+        "license": null, 
+        "license_id": "", 
+        "license_title": "", 
+        "maintainer": "", 
+        "maintainer_email": "", 
+        "metadata_created": "2013-03-28T21:56:29.580883", 
+        "metadata_modified": "2013-04-07T19:52:34.536759", 
+        "name": "evolution-annuelle-de-l-indice-harmonise-des-prix-la-consommation-en-2012", 
+        "notes": "", 
+        "notes_rendered": "", 
+        "ratings_average": null, 
+        "ratings_count": 0, 
+        "relationships": [], 
+        "resources": [
+            {
+                "cache_last_updated": null, 
+                "cache_url": "", 
+                "created": "2013-03-28T16:56:29.687631", 
+                "description": "", 
+                "format": "", 
+                "hash": "", 
+                "id": "093bcd27-819d-4a61-b585-06db60a95284", 
+                "last_modified": "2013-03-28T17:00:37.668915", 
+                "mimetype": "application/pdf", 
+                "mimetype_inner": "", 
+                "name": "", 
+                "package_id": "bf0572a2-f459-4f92-8d85-2c292d093598", 
+                "position": 0, 
+                "resource_group_id": "628b3968-6dab-45e5-9e8a-62415e5c6dc7", 
+                "resource_type": "", 
+                "size": "493056", 
+                "tracking_summary": {
+                    "recent": 0, 
+                    "total": 0
+                }, 
+                "url": "http://www.ansd.sn/publications/annuelles/EvolAnnuel_IHPC_2012.pdf", 
+                "webstore_last_updated": null, 
+                "webstore_url": ""
+            }
+        ], 
+        "revision_id": "80bf9a6e-c21a-4fe6-9a6b-7770c02ba492", 
+        "state": "active", 
+        "tags": [
+            "ANSD", 
+            "Senegal", 
+            "donnees", 
+            "menages", 
+            "publications"
+        ], 
+        "title": "Evolution annuelle de l\u2019indice harmonise des prix \u00e0 la consommation en 2012", 
+        "tracking_summary": {
+            "recent": 0, 
+            "total": 0
+        }, 
+        "type": null, 
+        "url": "http://www.ansd.sn/publications/annuelles/EvolAnnuel_IHPC_2012.pdf", 
+        "version": ""
+    }, 
+    {
+        "author": "", 
+        "author_email": "", 
+        "ckan_url": "http://thedatahub.org/dataset/indice-harmonis-de-la-production-industrielle-ihpi-deuxi-me-trimestre-2011", 
+        "download_url": "http://www.ansd.sn/publications/conjoncturelles/IHPI/trimestrielle/Conjoncture_T2_2011.pdf", 
+        "extras": {}, 
+        "groups": [
+            "country-sn"
+        ], 
+        "id": "b92e2b95-2f8a-45de-a7bd-6ef6581d3dd0", 
+        "isopen": false, 
+        "license": null, 
+        "license_id": "", 
+        "license_title": "", 
+        "maintainer": "", 
+        "maintainer_email": "", 
+        "metadata_created": "2013-03-28T21:47:26.473177", 
+        "metadata_modified": "2013-04-17T14:58:28.152742", 
+        "name": "indice-harmonis-de-la-production-industrielle-ihpi-deuxi-me-trimestre-2011", 
+        "notes": "", 
+        "notes_rendered": "", 
+        "ratings_average": null, 
+        "ratings_count": 0, 
+        "relationships": [], 
+        "resources": [
+            {
+                "cache_last_updated": null, 
+                "cache_url": "", 
+                "created": "2013-03-28T16:47:26.599531", 
+                "description": "", 
+                "format": "", 
+                "hash": "", 
+                "id": "a3466bdc-fc8d-4464-a7c1-9eb5bff7c3a3", 
+                "last_modified": "2013-03-28T16:49:46.284929", 
+                "mimetype": "application/pdf", 
+                "mimetype_inner": "", 
+                "name": "", 
+                "package_id": "b92e2b95-2f8a-45de-a7bd-6ef6581d3dd0", 
+                "position": 0, 
+                "resource_group_id": "3b43179a-f640-49c5-8048-d50e5ab71c8b", 
+                "resource_type": "", 
+                "size": "1674849", 
+                "tracking_summary": {
+                    "recent": 0, 
+                    "total": 0
+                }, 
+                "url": "http://www.ansd.sn/publications/conjoncturelles/IHPI/trimestrielle/Conjoncture_T2_2011.pdf", 
+                "webstore_last_updated": null, 
+                "webstore_url": ""
+            }
+        ], 
+        "revision_id": "5e0595d0-a886-4832-adce-b44d2fb71b53", 
+        "state": "active", 
+        "tags": [
+            "ANSD", 
+            "Senegal", 
+            "donnees", 
+            "menages", 
+            "publications"
+        ], 
+        "title": "Indice Harmonis\u00e9 de la Production Industrielle (IHPI) Deuxi\u00e8me Trimestre 2011", 
+        "tracking_summary": {
+            "recent": 0, 
+            "total": 0
+        }, 
+        "type": null, 
+        "url": "http://www.ansd.sn/publications/conjoncturelles/IHPI/trimestrielle/Conjoncture_T2_2011.pdf", 
+        "version": ""
+    }, 
+    {
+        "author": "", 
+        "author_email": "", 
+        "ckan_url": "http://thedatahub.org/dataset/indice-harmonis-de-la-production-industrielle-ihpi-premier-trimestre-2011", 
+        "download_url": "http://www.ansd.sn/publications/conjoncturelles/IHPI/trimestrielle/Conjoncture_T1_2011.pdf", 
+        "extras": {}, 
+        "groups": [
+            "country-sn"
+        ], 
+        "id": "8a161e25-2c33-4bc8-bbd6-54ad1fb7767d", 
+        "isopen": false, 
+        "license": null, 
+        "license_id": "", 
+        "license_title": "", 
+        "maintainer": "", 
+        "maintainer_email": "", 
+        "metadata_created": "2013-03-29T18:58:03.368938", 
+        "metadata_modified": "2013-04-17T14:06:58.656926", 
+        "name": "indice-harmonis-de-la-production-industrielle-ihpi-premier-trimestre-2011", 
+        "notes": "", 
+        "notes_rendered": "", 
+        "ratings_average": null, 
+        "ratings_count": 0, 
+        "relationships": [], 
+        "resources": [
+            {
+                "cache_last_updated": null, 
+                "cache_url": "", 
+                "created": "2013-03-29T13:58:04.019937", 
+                "description": "", 
+                "format": "", 
+                "hash": "", 
+                "id": "d5acb3e5-1a53-44e6-aaf1-9770389a23d6", 
+                "last_modified": "2013-03-29T13:58:07.169592", 
+                "mimetype": "application/pdf", 
+                "mimetype_inner": "", 
+                "name": "", 
+                "package_id": "8a161e25-2c33-4bc8-bbd6-54ad1fb7767d", 
+                "position": 0, 
+                "resource_group_id": "1d58fb55-ec91-41bf-90d0-bec5f53e629b", 
+                "resource_type": "", 
+                "size": "1568005", 
+                "tracking_summary": {
+                    "recent": 0, 
+                    "total": 0
+                }, 
+                "url": "http://www.ansd.sn/publications/conjoncturelles/IHPI/trimestrielle/Conjoncture_T1_2011.pdf", 
+                "webstore_last_updated": null, 
+                "webstore_url": ""
+            }
+        ], 
+        "revision_id": "8efa5b0b-876a-4be9-9a1d-7db80c6fd514", 
+        "state": "active", 
+        "tags": [
+            "ANSD", 
+            "Senegal", 
+            "donnees", 
+            "menages", 
+            "publications"
+        ], 
+        "title": "Indice Harmonis\u00e9 de la Production Industrielle (IHPI) Premier Trimestre 2011", 
+        "tracking_summary": {
+            "recent": 0, 
+            "total": 0
+        }, 
+        "type": null, 
+        "url": "http://www.ansd.sn/publications/conjoncturelles/IHPI/trimestrielle/Conjoncture_T1_2011.pdf", 
+        "version": ""
+    }, 
+    {
+        "author": "", 
+        "author_email": "", 
+        "ckan_url": "http://thedatahub.org/dataset/indice-harmonise-des-prix-la-consommation-ihpc-f-vrier-2012", 
+        "download_url": "http://www.ansd.sn/publications/conjoncturelles/IHPC/mensuelle/IHPC_02_12.pdf", 
+        "extras": {}, 
+        "groups": [
+            "country-sn"
+        ], 
+        "id": "f56a1804-26a1-4381-a6b0-e771f55a9fef", 
+        "isopen": false, 
+        "license": null, 
+        "license_id": "", 
+        "license_title": "", 
+        "maintainer": "", 
+        "maintainer_email": "", 
+        "metadata_created": "2013-03-28T21:53:43.303500", 
+        "metadata_modified": "2013-04-23T12:46:34.070330", 
+        "name": "indice-harmonise-des-prix-la-consommation-ihpc-f-vrier-2012", 
+        "notes": "", 
+        "notes_rendered": "", 
+        "ratings_average": null, 
+        "ratings_count": 0, 
+        "relationships": [], 
+        "resources": [
+            {
+                "cache_last_updated": null, 
+                "cache_url": "", 
+                "created": "2013-03-28T16:53:43.438106", 
+                "description": "", 
+                "format": "", 
+                "hash": "", 
+                "id": "191f8ed8-b246-4df5-8086-2487bff74098", 
+                "last_modified": "2013-03-28T16:56:58.117233", 
+                "mimetype": "application/pdf", 
+                "mimetype_inner": "", 
+                "name": "", 
+                "package_id": "f56a1804-26a1-4381-a6b0-e771f55a9fef", 
+                "position": 0, 
+                "resource_group_id": "97da8a11-35bd-4e4b-a2e7-98fae7b36a33", 
+                "resource_type": "", 
+                "size": "195914", 
+                "tracking_summary": {
+                    "recent": 0, 
+                    "total": 0
+                }, 
+                "url": "http://www.ansd.sn/publications/conjoncturelles/IHPC/mensuelle/IHPC_02_12.pdf", 
+                "webstore_last_updated": null, 
+                "webstore_url": ""
+            }
+        ], 
+        "revision_id": "e4588965-8260-4e0f-8519-cd1c79bf874f", 
+        "state": "active", 
+        "tags": [
+            "ANSD", 
+            "Senegal", 
+            "donnees", 
+            "menages", 
+            "publications"
+        ], 
+        "title": "Indice Harmonise des Prix \u00e0 la Consommation IHPC F\u00e9vrier 2012", 
+        "tracking_summary": {
+            "recent": 0, 
+            "total": 0
+        }, 
+        "type": null, 
+        "url": "http://www.ansd.sn/publications/conjoncturelles/IHPC/mensuelle/IHPC_02_12.pdf", 
+        "version": ""
+    }, 
+    {
+        "author": "", 
+        "author_email": "", 
+        "ckan_url": "http://thedatahub.org/dataset/indice-national-des-prix-la-consommation-inpc-f-vrier-2011", 
+        "download_url": "http://www.ansd.sn/publications/conjoncturelles/INPC/mensuelle/INPC_02_11.pdf", 
+        "extras": {}, 
+        "groups": [
+            "country-sn"
+        ], 
+        "id": "24b5bb2a-8bbb-4914-abd0-a187b990b656", 
+        "isopen": false, 
+        "license": null, 
+        "license_id": "", 
+        "license_title": "", 
+        "maintainer": "", 
+        "maintainer_email": "", 
+        "metadata_created": "2013-03-28T21:56:13.791472", 
+        "metadata_modified": "2013-04-26T17:43:49.009265", 
+        "name": "indice-national-des-prix-la-consommation-inpc-f-vrier-2011", 
+        "notes": "", 
+        "notes_rendered": "", 
+        "ratings_average": null, 
+        "ratings_count": 0, 
+        "relationships": [], 
+        "resources": [
+            {
+                "cache_last_updated": null, 
+                "cache_url": "", 
+                "created": "2013-03-28T16:56:13.915180", 
+                "description": "", 
+                "format": "", 
+                "hash": "", 
+                "id": "b5335e9f-3541-42dd-8036-9dfb1774d28a", 
+                "last_modified": "2013-03-28T17:00:21.096622", 
+                "mimetype": "application/pdf", 
+                "mimetype_inner": "", 
+                "name": "", 
+                "package_id": "24b5bb2a-8bbb-4914-abd0-a187b990b656", 
+                "position": 0, 
+                "resource_group_id": "12e61e6e-09da-45d4-860e-30ac855af3da", 
+                "resource_type": "", 
+                "size": "105776", 
+                "tracking_summary": {
+                    "recent": 0, 
+                    "total": 0
+                }, 
+                "url": "http://www.ansd.sn/publications/conjoncturelles/INPC/mensuelle/INPC_02_11.pdf", 
+                "webstore_last_updated": null, 
+                "webstore_url": ""
+            }
+        ], 
+        "revision_id": "9bbad6e0-bd9f-48d5-a7e2-234ddec77156", 
+        "state": "active", 
+        "tags": [
+            "ANSD", 
+            "INPC", 
+            "Senegal", 
+            "donnees", 
+            "menages", 
+            "publications"
+        ], 
+        "title": "Indice National des Prix \u00e0 la Consommation INPC F\u00e9vrier 2011", 
+        "tracking_summary": {
+            "recent": 0, 
+            "total": 0
+        }, 
+        "type": null, 
+        "url": "http://www.ansd.sn/publications/conjoncturelles/INPC/mensuelle/INPC_02_11.pdf", 
+        "version": ""
+    }, 
+    {
+        "author": "", 
+        "author_email": "", 
+        "ckan_url": "http://thedatahub.org/dataset/indice-national-des-prix-la-consommation-inpc-f-vrier-2012", 
+        "download_url": "http://www.ansd.sn/publications/conjoncturelles/INPC/mensuelle/INPC_02_12.pdf", 
+        "extras": {}, 
+        "groups": [
+            "country-sn"
+        ], 
+        "id": "079c7655-4f20-4991-8875-4f76738f59bc", 
+        "isopen": false, 
+        "license": null, 
+        "license_id": "", 
+        "license_title": "", 
+        "maintainer": "", 
+        "maintainer_email": "", 
+        "metadata_created": "2013-03-28T21:56:11.404132", 
+        "metadata_modified": "2013-04-26T17:44:27.618152", 
+        "name": "indice-national-des-prix-la-consommation-inpc-f-vrier-2012", 
+        "notes": "", 
+        "notes_rendered": "", 
+        "ratings_average": null, 
+        "ratings_count": 0, 
+        "relationships": [], 
+        "resources": [
+            {
+                "cache_last_updated": null, 
+                "cache_url": "", 
+                "created": "2013-03-28T16:56:11.481073", 
+                "description": "", 
+                "format": "", 
+                "hash": "", 
+                "id": "2560ed4f-6c30-4593-8e69-2dab46a5bc81", 
+                "last_modified": "2013-03-28T17:00:16.770197", 
+                "mimetype": "application/pdf", 
+                "mimetype_inner": "", 
+                "name": "", 
+                "package_id": "079c7655-4f20-4991-8875-4f76738f59bc", 
+                "position": 0, 
+                "resource_group_id": "79e960c9-cfb4-4457-a18f-aff4d01fb452", 
+                "resource_type": "", 
+                "size": "119453", 
+                "tracking_summary": {
+                    "recent": 0, 
+                    "total": 0
+                }, 
+                "url": "http://www.ansd.sn/publications/conjoncturelles/INPC/mensuelle/INPC_02_12.pdf", 
+                "webstore_last_updated": null, 
+                "webstore_url": ""
+            }
+        ], 
+        "revision_id": "2e2cf7da-7d5d-4e67-b2fc-7c3d60b5ec55", 
+        "state": "active", 
+        "tags": [
+            "ANSD", 
+            "INPC", 
+            "Senegal", 
+            "donnees", 
+            "menages", 
+            "publications"
+        ], 
+        "title": "Indice National des Prix \u00e0 la Consommation INPC F\u00e9vrier 2012", 
+        "tracking_summary": {
+            "recent": 0, 
+            "total": 0
+        }, 
+        "type": null, 
+        "url": "http://www.ansd.sn/publications/conjoncturelles/INPC/mensuelle/INPC_02_12.pdf", 
+        "version": ""
+    }, 
+    {
+        "author": "", 
+        "author_email": "", 
+        "ckan_url": "http://thedatahub.org/dataset/indice-national-des-prix-la-consommation-inpc-janvier-2012", 
+        "download_url": "http://www.ansd.sn/publications/conjoncturelles/INPC/mensuelle/INPC_01_12.pdf", 
+        "extras": {}, 
+        "groups": [
+            "country-sn"
+        ], 
+        "id": "fc8c0a2f-3d93-45c6-a2a3-70120dec5e02", 
+        "isopen": false, 
+        "license": null, 
+        "license_id": "", 
+        "license_title": "", 
+        "maintainer": "", 
+        "maintainer_email": "", 
+        "metadata_created": "2013-03-28T21:56:19.589561", 
+        "metadata_modified": "2013-04-26T17:37:22.595384", 
+        "name": "indice-national-des-prix-la-consommation-inpc-janvier-2012", 
+        "notes": "", 
+        "notes_rendered": "", 
+        "ratings_average": null, 
+        "ratings_count": 0, 
+        "relationships": [], 
+        "resources": [
+            {
+                "cache_last_updated": null, 
+                "cache_url": "", 
+                "created": "2013-03-28T16:56:19.761661", 
+                "description": "", 
+                "format": "", 
+                "hash": "", 
+                "id": "55007430-2e84-406e-9a78-dcabd303b8ca", 
+                "last_modified": "2013-03-28T17:00:25.040642", 
+                "mimetype": "application/pdf", 
+                "mimetype_inner": "", 
+                "name": "", 
+                "package_id": "fc8c0a2f-3d93-45c6-a2a3-70120dec5e02", 
+                "position": 0, 
+                "resource_group_id": "14cb60e2-9c21-4807-9ce8-ec2c92fb44f9", 
+                "resource_type": "", 
+                "size": "119876", 
+                "tracking_summary": {
+                    "recent": 0, 
+                    "total": 0
+                }, 
+                "url": "http://www.ansd.sn/publications/conjoncturelles/INPC/mensuelle/INPC_01_12.pdf", 
+                "webstore_last_updated": null, 
+                "webstore_url": ""
+            }
+        ], 
+        "revision_id": "32b865f2-3916-4c44-845e-3095d20bfaab", 
+        "state": "active", 
+        "tags": [
+            "ANSD", 
+            "INPC", 
+            "Senegal", 
+            "donnees", 
+            "menages", 
+            "publications"
+        ], 
+        "title": "Indice National des Prix \u00e0 la Consommation INPC Janvier 2012", 
+        "tracking_summary": {
+            "recent": 0, 
+            "total": 0
+        }, 
+        "type": null, 
+        "url": "http://www.ansd.sn/publications/conjoncturelles/INPC/mensuelle/INPC_01_12.pdf", 
+        "version": ""
+    }, 
+    {
+        "author": "", 
+        "author_email": "", 
+        "ckan_url": "http://thedatahub.org/dataset/indice-national-des-prix-la-consommation-inpc-janvier-2013", 
+        "download_url": "http://www.ansd.sn/publications/conjoncturelles/INPC/mensuelle/INPC_01_13.pdf", 
+        "extras": {}, 
+        "groups": [
+            "country-sn"
+        ], 
+        "id": "4796f8fe-a6a2-4a3d-af33-892c9204b353", 
+        "isopen": false, 
+        "license": null, 
+        "license_id": "", 
+        "license_title": "", 
+        "maintainer": "", 
+        "maintainer_email": "", 
+        "metadata_created": "2013-03-28T21:54:19.258865", 
+        "metadata_modified": "2013-04-26T17:41:42.458333", 
+        "name": "indice-national-des-prix-la-consommation-inpc-janvier-2013", 
+        "notes": "", 
+        "notes_rendered": "", 
+        "ratings_average": null, 
+        "ratings_count": 0, 
+        "relationships": [], 
+        "resources": [
+            {
+                "cache_last_updated": null, 
+                "cache_url": "", 
+                "created": "2013-03-28T16:54:19.437146", 
+                "description": "", 
+                "format": "", 
+                "hash": "", 
+                "id": "7e092fdd-e49f-4d06-bb59-800988dac74d", 
+                "last_modified": "2013-03-28T16:57:42.238796", 
+                "mimetype": "application/pdf", 
+                "mimetype_inner": "", 
+                "name": "", 
+                "package_id": "4796f8fe-a6a2-4a3d-af33-892c9204b353", 
+                "position": 0, 
+                "resource_group_id": "b01f4913-cf36-470a-9718-0ac9e5d90846", 
+                "resource_type": "", 
+                "size": "119087", 
+                "tracking_summary": {
+                    "recent": 0, 
+                    "total": 0
+                }, 
+                "url": "http://www.ansd.sn/publications/conjoncturelles/INPC/mensuelle/INPC_01_13.pdf", 
+                "webstore_last_updated": null, 
+                "webstore_url": ""
+            }
+        ], 
+        "revision_id": "fe5e941d-552b-41e6-934f-d7a33b7cb47f", 
+        "state": "active", 
+        "tags": [
+            "ANSD", 
+            "INPC", 
+            "Senegal", 
+            "donnees", 
+            "menages", 
+            "publications"
+        ], 
+        "title": "Indice National des Prix \u00e0 la Consommation INPC Janvier 2013", 
+        "tracking_summary": {
+            "recent": 0, 
+            "total": 0
+        }, 
+        "type": null, 
+        "url": "http://www.ansd.sn/publications/conjoncturelles/INPC/mensuelle/INPC_01_13.pdf", 
+        "version": ""
+    }, 
+    {
+        "author": "", 
+        "author_email": "", 
+        "ckan_url": "http://thedatahub.org/dataset/indice-national-des-prix-la-consommation-inpc-juin-2011", 
+        "download_url": "http://www.ansd.sn/publications/conjoncturelles/INPC/mensuelle/INPC_06_11.pdf", 
+        "extras": {}, 
+        "groups": [
+            "country-sn"
+        ], 
+        "id": "74082c76-87c3-41a9-a5b5-8b610fd5769d", 
+        "isopen": false, 
+        "license": null, 
+        "license_id": "", 
+        "license_title": "", 
+        "maintainer": "", 
+        "maintainer_email": "", 
+        "metadata_created": "2013-03-28T21:55:33.186232", 
+        "metadata_modified": "2013-04-26T17:42:12.160581", 
+        "name": "indice-national-des-prix-la-consommation-inpc-juin-2011", 
+        "notes": "", 
+        "notes_rendered": "", 
+        "ratings_average": null, 
+        "ratings_count": 0, 
+        "relationships": [], 
+        "resources": [
+            {
+                "cache_last_updated": null, 
+                "cache_url": "", 
+                "created": "2013-03-28T16:55:33.257911", 
+                "description": "", 
+                "format": "", 
+                "hash": "", 
+                "id": "fa69422e-0a77-4163-b0e2-726f407a1323", 
+                "last_modified": "2013-03-28T16:59:02.240593", 
+                "mimetype": "application/pdf", 
+                "mimetype_inner": "", 
+                "name": "", 
+                "package_id": "74082c76-87c3-41a9-a5b5-8b610fd5769d", 
+                "position": 0, 
+                "resource_group_id": "3601b97d-ad6d-40e1-a38e-9b8d2a5bb256", 
+                "resource_type": "", 
+                "size": "123905", 
+                "tracking_summary": {
+                    "recent": 0, 
+                    "total": 0
+                }, 
+                "url": "http://www.ansd.sn/publications/conjoncturelles/INPC/mensuelle/INPC_06_11.pdf", 
+                "webstore_last_updated": null, 
+                "webstore_url": ""
+            }
+        ], 
+        "revision_id": "ae323e24-444a-4222-b882-fdcbf89b9c6e", 
+        "state": "active", 
+        "tags": [
+            "ANSD", 
+            "INPC", 
+            "Senegal", 
+            "donnees", 
+            "menages", 
+            "publications"
+        ], 
+        "title": "Indice National des Prix \u00e0 la Consommation INPC Juin 2011", 
+        "tracking_summary": {
+            "recent": 0, 
+            "total": 0
+        }, 
+        "type": null, 
+        "url": "http://www.ansd.sn/publications/conjoncturelles/INPC/mensuelle/INPC_06_11.pdf", 
+        "version": ""
+    }, 
+    {
+        "author": "", 
+        "author_email": "", 
+        "ckan_url": "http://thedatahub.org/dataset/indice-national-des-prix-la-consommation-inpc-septembre-2012", 
+        "download_url": "http://www.ansd.sn/publications/conjoncturelles/INPC/mensuelle/INPC_09_12.pdf", 
+        "extras": {}, 
+        "groups": [
+            "country-sn"
+        ], 
+        "id": "b22b6c84-2f4a-4a86-88b4-f7cd2c951ef1", 
+        "isopen": false, 
+        "license": null, 
+        "license_id": "", 
+        "license_title": "", 
+        "maintainer": "", 
+        "maintainer_email": "", 
+        "metadata_created": "2013-03-28T21:54:51.969884", 
+        "metadata_modified": "2013-04-26T17:43:21.640970", 
+        "name": "indice-national-des-prix-la-consommation-inpc-septembre-2012", 
+        "notes": "", 
+        "notes_rendered": "", 
+        "ratings_average": null, 
+        "ratings_count": 0, 
+        "relationships": [], 
+        "resources": [
+            {
+                "cache_last_updated": null, 
+                "cache_url": "", 
+                "created": "2013-03-28T16:54:52.044825", 
+                "description": "", 
+                "format": "", 
+                "hash": "", 
+                "id": "8ae02e8e-94c8-4409-8252-c490a2966a27", 
+                "last_modified": "2013-03-28T16:58:22.246266", 
+                "mimetype": "application/pdf", 
+                "mimetype_inner": "", 
+                "name": "", 
+                "package_id": "b22b6c84-2f4a-4a86-88b4-f7cd2c951ef1", 
+                "position": 0, 
+                "resource_group_id": "2c2264e9-d7f1-4def-bbff-135668eff7ae", 
+                "resource_type": "", 
+                "size": "84278", 
+                "tracking_summary": {
+                    "recent": 0, 
+                    "total": 0
+                }, 
+                "url": "http://www.ansd.sn/publications/conjoncturelles/INPC/mensuelle/INPC_09_12.pdf", 
+                "webstore_last_updated": null, 
+                "webstore_url": ""
+            }
+        ], 
+        "revision_id": "c9ecb7b5-6894-4e93-ba7d-51ceb76352b7", 
+        "state": "active", 
+        "tags": [
+            "ANSD", 
+            "INPC", 
+            "Senegal", 
+            "donnees", 
+            "menages", 
+            "publications"
+        ], 
+        "title": "Indice National des Prix \u00e0 la Consommation INPC Septembre 2012", 
+        "tracking_summary": {
+            "recent": 0, 
+            "total": 0
+        }, 
+        "type": null, 
+        "url": "http://www.ansd.sn/publications/conjoncturelles/INPC/mensuelle/INPC_09_12.pdf", 
+        "version": ""
+    }, 
+    {
+        "author": "", 
+        "author_email": "", 
+        "ckan_url": "http://thedatahub.org/dataset/indices-des-prix-la-production-industrielle-ippi-ao-t-2011", 
+        "download_url": "http://www.ansd.sn/publications/conjoncturelles/IPPI/mensuel/IPPI_08_11.pdf", 
+        "extras": {}, 
+        "groups": [
+            "country-sn"
+        ], 
+        "id": "d20c050a-3a40-4c16-9dcf-6ae004f35899", 
+        "isopen": false, 
+        "license": null, 
+        "license_id": "", 
+        "license_title": "", 
+        "maintainer": "", 
+        "maintainer_email": "", 
+        "metadata_created": "2013-03-29T10:18:51.457017", 
+        "metadata_modified": "2013-04-15T11:55:13.936840", 
+        "name": "indices-des-prix-la-production-industrielle-ippi-ao-t-2011", 
+        "notes": "", 
+        "notes_rendered": "", 
+        "ratings_average": null, 
+        "ratings_count": 0, 
+        "relationships": [], 
+        "resources": [
+            {
+                "cache_last_updated": null, 
+                "cache_url": "", 
+                "created": "2013-03-29T05:18:51.598528", 
+                "description": "", 
+                "format": "", 
+                "hash": "", 
+                "id": "f930d91b-d1a6-4a94-8afc-d1ffb076c7ee", 
+                "last_modified": "2013-03-29T05:19:05.941132", 
+                "mimetype": "application/pdf", 
+                "mimetype_inner": "", 
+                "name": "", 
+                "package_id": "d20c050a-3a40-4c16-9dcf-6ae004f35899", 
+                "position": 0, 
+                "resource_group_id": "fe8ec13b-98bd-4c1c-b016-e170b1523632", 
+                "resource_type": "", 
+                "size": "454265", 
+                "tracking_summary": {
+                    "recent": 0, 
+                    "total": 0
+                }, 
+                "url": "http://www.ansd.sn/publications/conjoncturelles/IPPI/mensuel/IPPI_08_11.pdf", 
+                "webstore_last_updated": null, 
+                "webstore_url": ""
+            }
+        ], 
+        "revision_id": "f06741e4-88a1-4926-bf49-0f1c80b5b16f", 
+        "state": "active", 
+        "tags": [
+            "ANSD", 
+            "Senegal", 
+            "donnees", 
+            "menages", 
+            "publications"
+        ], 
+        "title": "Indices des Prix \u00e0 la Production industrielle (IPPI) Ao\u00fbt 2011", 
+        "tracking_summary": {
+            "recent": 0, 
+            "total": 0
+        }, 
+        "type": null, 
+        "url": "http://www.ansd.sn/publications/conjoncturelles/IPPI/mensuel/IPPI_08_11.pdf", 
+        "version": ""
+    }, 
+    {
+        "author": "", 
+        "author_email": "", 
+        "ckan_url": "http://thedatahub.org/dataset/indices-des-prix-la-production-industrielle-ippi-d-cembre-2012", 
+        "download_url": "http://www.ansd.sn/publications/conjoncturelles/IPPI/mensuel/IPPI_12_12.pdf", 
+        "extras": {}, 
+        "groups": [
+            "country-sn"
+        ], 
+        "id": "c893ebed-9808-46b0-ae0c-8bd66f775fd1", 
+        "isopen": false, 
+        "license": null, 
+        "license_id": "", 
+        "license_title": "", 
+        "maintainer": "", 
+        "maintainer_email": "", 
+        "metadata_created": "2013-03-29T10:18:15.103413", 
+        "metadata_modified": "2013-04-15T11:36:57.788576", 
+        "name": "indices-des-prix-la-production-industrielle-ippi-d-cembre-2012", 
+        "notes": "", 
+        "notes_rendered": "", 
+        "ratings_average": null, 
+        "ratings_count": 0, 
+        "relationships": [], 
+        "resources": [
+            {
+                "cache_last_updated": null, 
+                "cache_url": "", 
+                "created": "2013-03-29T05:18:15.355922", 
+                "description": "", 
+                "format": "", 
+                "hash": "", 
+                "id": "5bcf74b2-2605-4443-8524-7f9868d4b56d", 
+                "last_modified": "2013-03-29T05:18:17.975811", 
+                "mimetype": "application/pdf", 
+                "mimetype_inner": "", 
+                "name": "", 
+                "package_id": "c893ebed-9808-46b0-ae0c-8bd66f775fd1", 
+                "position": 0, 
+                "resource_group_id": "fce69872-0ac4-4d73-8caf-43f8ff47f358", 
+                "resource_type": "", 
+                "size": "627978", 
+                "tracking_summary": {
+                    "recent": 0, 
+                    "total": 0
+                }, 
+                "url": "http://www.ansd.sn/publications/conjoncturelles/IPPI/mensuel/IPPI_12_12.pdf", 
+                "webstore_last_updated": null, 
+                "webstore_url": ""
+            }
+        ], 
+        "revision_id": "35ecb2d7-6c4c-4e70-b648-5b15d78ba898", 
+        "state": "active", 
+        "tags": [
+            "ANSD", 
+            "Senegal", 
+            "donnees", 
+            "menages", 
+            "publications"
+        ], 
+        "title": "Indices des Prix \u00e0 la Production industrielle (IPPI) D\u00e9cembre 2012", 
+        "tracking_summary": {
+            "recent": 0, 
+            "total": 0
+        }, 
+        "type": null, 
+        "url": "http://www.ansd.sn/publications/conjoncturelles/IPPI/mensuel/IPPI_12_12.pdf", 
+        "version": ""
+    }, 
+    {
+        "author": "", 
+        "author_email": "", 
+        "ckan_url": "http://thedatahub.org/dataset/indices-des-prix-la-production-industrielle-ippi-f-vrier-2011", 
+        "download_url": "http://www.ansd.sn/publications/conjoncturelles/IPPI/mensuel/IPPI_02_11.pdf", 
+        "extras": {}, 
+        "groups": [
+            "country-sn"
+        ], 
+        "id": "527df0d0-48a0-4b18-bdb8-d2c1d537711e", 
+        "isopen": false, 
+        "license": null, 
+        "license_id": "", 
+        "license_title": "", 
+        "maintainer": "", 
+        "maintainer_email": "", 
+        "metadata_created": "2013-03-29T10:21:54.780767", 
+        "metadata_modified": "2013-04-15T12:27:37.002412", 
+        "name": "indices-des-prix-la-production-industrielle-ippi-f-vrier-2011", 
+        "notes": "", 
+        "notes_rendered": "", 
+        "ratings_average": null, 
+        "ratings_count": 0, 
+        "relationships": [], 
+        "resources": [
+            {
+                "cache_last_updated": null, 
+                "cache_url": "", 
+                "created": "2013-03-29T05:21:54.949956", 
+                "description": "", 
+                "format": "", 
+                "hash": "", 
+                "id": "d77beab1-e857-4fa6-ae1b-a58697ea6ef3", 
+                "last_modified": "2013-03-29T05:21:57.698767", 
+                "mimetype": "application/pdf", 
+                "mimetype_inner": "", 
+                "name": "", 
+                "package_id": "527df0d0-48a0-4b18-bdb8-d2c1d537711e", 
+                "position": 0, 
+                "resource_group_id": "68d0ff6d-81d6-44c8-bb1b-1a27c9b2045d", 
+                "resource_type": "", 
+                "size": "457790", 
+                "tracking_summary": {
+                    "recent": 0, 
+                    "total": 0
+                }, 
+                "url": "http://www.ansd.sn/publications/conjoncturelles/IPPI/mensuel/IPPI_02_11.pdf", 
+                "webstore_last_updated": null, 
+                "webstore_url": ""
+            }
+        ], 
+        "revision_id": "812cfada-834d-4cd2-885a-509a3eab6e2d", 
+        "state": "active", 
+        "tags": [
+            "ANSD", 
+            "Senegal", 
+            "donnees", 
+            "menages", 
+            "publications"
+        ], 
+        "title": "Indices des Prix \u00e0 la Production industrielle (IPPI) F\u00e9vrier 2011", 
+        "tracking_summary": {
+            "recent": 0, 
+            "total": 0
+        }, 
+        "type": null, 
+        "url": "http://www.ansd.sn/publications/conjoncturelles/IPPI/mensuel/IPPI_02_11.pdf", 
+        "version": ""
+    }, 
+    {
+        "author": "", 
+        "author_email": "", 
+        "ckan_url": "http://thedatahub.org/dataset/indices-mensuels-des-prix-du-commerce-ext-rieur-ipce-f-vrier-2011", 
+        "download_url": "http://www.ansd.sn/publications/conjoncturelles/bulletin_commerce_exterieur/mensuel/IPCE_02_11.pdf", 
+        "extras": {}, 
+        "groups": [
+            "country-sn"
+        ], 
+        "id": "271f833f-0615-4fdb-bcd0-2c7568673014", 
+        "isopen": false, 
+        "license": null, 
+        "license_id": "", 
+        "license_title": "", 
+        "maintainer": "", 
+        "maintainer_email": "", 
+        "metadata_created": "2013-03-29T10:27:55.098082", 
+        "metadata_modified": "2013-04-25T11:40:39.426854", 
+        "name": "indices-mensuels-des-prix-du-commerce-ext-rieur-ipce-f-vrier-2011", 
+        "notes": "", 
+        "notes_rendered": "", 
+        "ratings_average": null, 
+        "ratings_count": 0, 
+        "relationships": [], 
+        "resources": [
+            {
+                "cache_last_updated": null, 
+                "cache_url": "", 
+                "created": "2013-03-29T05:27:55.202042", 
+                "description": "", 
+                "format": "", 
+                "hash": "", 
+                "id": "f664bfd1-e3f7-4f60-ad28-33e7477b1d7d", 
+                "last_modified": "2013-03-29T05:27:59.059328", 
+                "mimetype": "application/pdf", 
+                "mimetype_inner": "", 
+                "name": "", 
+                "package_id": "271f833f-0615-4fdb-bcd0-2c7568673014", 
+                "position": 0, 
+                "resource_group_id": "38fa2fba-d22e-48e0-8a12-2d400a921f53", 
+                "resource_type": "", 
+                "size": "211004", 
+                "tracking_summary": {
+                    "recent": 0, 
+                    "total": 0
+                }, 
+                "url": "http://www.ansd.sn/publications/conjoncturelles/bulletin_commerce_exterieur/mensuel/IPCE_02_11.pdf", 
+                "webstore_last_updated": null, 
+                "webstore_url": ""
+            }
+        ], 
+        "revision_id": "c1791b98-3ca1-46a1-9146-1ba7693b7f33", 
+        "state": "active", 
+        "tags": [
+            "ANSD", 
+            "Senegal", 
+            "donnees", 
+            "menages", 
+            "publications"
+        ], 
+        "title": "Indices mensuels des Prix du Commerce Ext\u00e9rieur IPCE F\u00e9vrier 2011", 
+        "tracking_summary": {
+            "recent": 0, 
+            "total": 0
+        }, 
+        "type": null, 
+        "url": "http://www.ansd.sn/publications/conjoncturelles/bulletin_commerce_exterieur/mensuel/IPCE_02_11.pdf", 
+        "version": ""
+    }, 
+    {
+        "author": "", 
+        "author_email": "", 
+        "ckan_url": "http://thedatahub.org/dataset/indices-mensuels-des-prix-du-commerce-ext-rieur-ipce-janvier-2012", 
+        "download_url": "http://www.ansd.sn/publications/conjoncturelles/bulletin_commerce_exterieur/mensuel/IPCE_01_12.pdf", 
+        "extras": {}, 
+        "groups": [
+            "country-sn"
+        ], 
+        "id": "1a172b06-856d-4165-9d21-637c12d52d95", 
+        "isopen": false, 
+        "license": null, 
+        "license_id": "", 
+        "license_title": "", 
+        "maintainer": "", 
+        "maintainer_email": "", 
+        "metadata_created": "2013-03-29T10:27:52.173066", 
+        "metadata_modified": "2013-04-25T11:39:18.706126", 
+        "name": "indices-mensuels-des-prix-du-commerce-ext-rieur-ipce-janvier-2012", 
+        "notes": "", 
+        "notes_rendered": "", 
+        "ratings_average": null, 
+        "ratings_count": 0, 
+        "relationships": [], 
+        "resources": [
+            {
+                "cache_last_updated": null, 
+                "cache_url": "", 
+                "created": "2013-03-29T05:27:52.274377", 
+                "description": "", 
+                "format": "", 
+                "hash": "", 
+                "id": "c0a913ac-98e2-4cb0-80b6-d81bdd187e8a", 
+                "last_modified": "2013-03-29T05:27:55.082882", 
+                "mimetype": "application/pdf", 
+                "mimetype_inner": "", 
+                "name": "", 
+                "package_id": "1a172b06-856d-4165-9d21-637c12d52d95", 
+                "position": 0, 
+                "resource_group_id": "61bc69d7-a07a-46aa-a499-381834d4d476", 
+                "resource_type": "", 
+                "size": "328228", 
+                "tracking_summary": {
+                    "recent": 0, 
+                    "total": 0
+                }, 
+                "url": "http://www.ansd.sn/publications/conjoncturelles/bulletin_commerce_exterieur/mensuel/IPCE_01_12.pdf", 
+                "webstore_last_updated": null, 
+                "webstore_url": ""
+            }
+        ], 
+        "revision_id": "3cf055b4-ac74-4917-a191-29641c3e16ab", 
+        "state": "active", 
+        "tags": [
+            "ANSD", 
+            "Senegal", 
+            "donnees", 
+            "menages", 
+            "publications"
+        ], 
+        "title": "Indices mensuels des Prix du Commerce Ext\u00e9rieur IPCE Janvier 2012", 
+        "tracking_summary": {
+            "recent": 0, 
+            "total": 0
+        }, 
+        "type": null, 
+        "url": "http://www.ansd.sn/publications/conjoncturelles/bulletin_commerce_exterieur/mensuel/IPCE_01_12.pdf", 
+        "version": ""
+    }, 
+    {
+        "author": "", 
+        "author_email": "", 
+        "ckan_url": "http://thedatahub.org/dataset/indices-mensuels-des-prix-du-commerce-ext-rieur-ipce-mai-2011", 
+        "download_url": "http://www.ansd.sn/publications/conjoncturelles/bulletin_commerce_exterieur/mensuel/IPCE_05_11.pdf", 
+        "extras": {}, 
+        "groups": [
+            "country-sn"
+        ], 
+        "id": "cfc9126e-2eba-4bdc-899a-ae4dfa2912c1", 
+        "isopen": false, 
+        "license": null, 
+        "license_id": "", 
+        "license_title": "", 
+        "maintainer": "", 
+        "maintainer_email": "", 
+        "metadata_created": "2013-03-29T10:27:03.792835", 
+        "metadata_modified": "2013-04-25T11:31:51.946064", 
+        "name": "indices-mensuels-des-prix-du-commerce-ext-rieur-ipce-mai-2011", 
+        "notes": "", 
+        "notes_rendered": "", 
+        "ratings_average": null, 
+        "ratings_count": 0, 
+        "relationships": [], 
+        "resources": [
+            {
+                "cache_last_updated": null, 
+                "cache_url": "", 
+                "created": "2013-03-29T05:27:03.968911", 
+                "description": "", 
+                "format": "", 
+                "hash": "", 
+                "id": "9a6e4786-2f86-4e75-b938-3e7b53dcf512", 
+                "last_modified": "2013-03-29T05:27:06.023098", 
+                "mimetype": "application/pdf", 
+                "mimetype_inner": "", 
+                "name": "", 
+                "package_id": "cfc9126e-2eba-4bdc-899a-ae4dfa2912c1", 
+                "position": 0, 
+                "resource_group_id": "51e6d2d5-b9b9-4469-a218-a28aa7b37e55", 
+                "resource_type": "", 
+                "size": "351416", 
+                "tracking_summary": {
+                    "recent": 0, 
+                    "total": 0
+                }, 
+                "url": "http://www.ansd.sn/publications/conjoncturelles/bulletin_commerce_exterieur/mensuel/IPCE_05_11.pdf", 
+                "webstore_last_updated": null, 
+                "webstore_url": ""
+            }
+        ], 
+        "revision_id": "cd144190-11ed-4484-a647-540c2fa47b68", 
+        "state": "active", 
+        "tags": [
+            "ANSD", 
+            "Senegal", 
+            "donnees", 
+            "menages", 
+            "publications"
+        ], 
+        "title": "Indices mensuels des Prix du Commerce Ext\u00e9rieur IPCE Mai 2011", 
+        "tracking_summary": {
+            "recent": 0, 
+            "total": 0
+        }, 
+        "type": null, 
+        "url": "http://www.ansd.sn/publications/conjoncturelles/bulletin_commerce_exterieur/mensuel/IPCE_05_11.pdf", 
+        "version": ""
+    }, 
+    {
+        "author": "", 
+        "author_email": "", 
+        "ckan_url": "http://thedatahub.org/dataset/matrice-de-comptabilit-sociale-du-s-n-gal-pour-l-ann-e-2005", 
+        "download_url": "http://www.ansd.sn/publications/rapports_enquetes_etudes/etudes/MCS_2005.pdf", 
+        "extras": {}, 
+        "groups": [
+            "country-sn"
+        ], 
+        "id": "a5a8d166-c885-4fbd-b5a9-bcac5ecc1d2c", 
+        "isopen": false, 
+        "license": null, 
+        "license_id": "", 
+        "license_title": "", 
+        "maintainer": "", 
+        "maintainer_email": "", 
+        "metadata_created": "2013-03-28T21:38:06.269770", 
+        "metadata_modified": "2013-04-09T11:19:42.026176", 
+        "name": "matrice-de-comptabilit-sociale-du-s-n-gal-pour-l-ann-e-2005", 
+        "notes": "", 
+        "notes_rendered": "", 
+        "ratings_average": null, 
+        "ratings_count": 0, 
+        "relationships": [], 
+        "resources": [
+            {
+                "cache_last_updated": null, 
+                "cache_url": "", 
+                "created": "2013-03-28T16:38:06.373815", 
+                "description": "", 
+                "format": "", 
+                "hash": "", 
+                "id": "b3c39290-95c0-4818-93a3-7880a8e475bb", 
+                "last_modified": "2013-03-28T16:39:23.264595", 
+                "mimetype": "application/pdf", 
+                "mimetype_inner": "", 
+                "name": "", 
+                "package_id": "a5a8d166-c885-4fbd-b5a9-bcac5ecc1d2c", 
+                "position": 0, 
+                "resource_group_id": "c77df834-7b84-4346-ba9b-e0be641f2944", 
+                "resource_type": "", 
+                "size": "1401109", 
+                "tracking_summary": {
+                    "recent": 0, 
+                    "total": 0
+                }, 
+                "url": "http://www.ansd.sn/publications/rapports_enquetes_etudes/etudes/MCS_2005.pdf", 
+                "webstore_last_updated": null, 
+                "webstore_url": ""
+            }
+        ], 
+        "revision_id": "b571de52-8fde-4f21-951f-92160de4d33d", 
+        "state": "active", 
+        "tags": [
+            "ANSD", 
+            "Senegal", 
+            "donnees", 
+            "menages", 
+            "publications"
+        ], 
+        "title": "Matrice de comptabilit\u00e9 sociale du S\u00e9n\u00e9gal pour l\u2019ann\u00e9e 2005", 
+        "tracking_summary": {
+            "recent": 0, 
+            "total": 0
+        }, 
+        "type": null, 
+        "url": "http://www.ansd.sn/publications/rapports_enquetes_etudes/etudes/MCS_2005.pdf", 
+        "version": ""
+    }, 
+    {
+        "author": "", 
+        "author_email": "", 
+        "ckan_url": "http://thedatahub.org/dataset/nituation-conomique-et-sociale-de-la-r-gion-de-diourbel-ann-e-2009", 
+        "download_url": "http://www.ansd.sn/publications/annuelles/SES_Region/SES_Diourbel_2009.pdf", 
+        "extras": {}, 
+        "groups": [
+            "country-sn"
+        ], 
+        "id": "e23b622e-6cd1-4e03-8916-7b2b1e383b35", 
+        "isopen": false, 
+        "license": null, 
+        "license_id": "", 
+        "license_title": "", 
+        "maintainer": "", 
+        "maintainer_email": "", 
+        "metadata_created": "2013-03-28T21:38:23.454332", 
+        "metadata_modified": "2013-04-08T09:28:58.735214", 
+        "name": "nituation-conomique-et-sociale-de-la-r-gion-de-diourbel-ann-e-2009", 
+        "notes": "", 
+        "notes_rendered": "", 
+        "ratings_average": null, 
+        "ratings_count": 0, 
+        "relationships": [], 
+        "resources": [
+            {
+                "cache_last_updated": null, 
+                "cache_url": "", 
+                "created": "2013-03-28T16:38:23.767618", 
+                "description": "", 
+                "format": "", 
+                "hash": "", 
+                "id": "1ac14e58-a555-433a-878c-f82f9a4a690d", 
+                "last_modified": "2013-03-28T16:40:17.635398", 
+                "mimetype": "application/pdf", 
+                "mimetype_inner": "", 
+                "name": "", 
+                "package_id": "e23b622e-6cd1-4e03-8916-7b2b1e383b35", 
+                "position": 0, 
+                "resource_group_id": "1ea906e5-5059-45ab-8eb7-52cd9d52a355", 
+                "resource_type": "", 
+                "size": "2516829", 
+                "tracking_summary": {
+                    "recent": 0, 
+                    "total": 0
+                }, 
+                "url": "http://www.ansd.sn/publications/annuelles/SES_Region/SES_Diourbel_2009.pdf", 
+                "webstore_last_updated": null, 
+                "webstore_url": ""
+            }
+        ], 
+        "revision_id": "37af18f5-ccb0-4468-a60a-e67d61bac96c", 
+        "state": "active", 
+        "tags": [
+            "ANSD", 
+            "Senegal", 
+            "diourbel", 
+            "donnees", 
+            "menages", 
+            "publications"
+        ], 
+        "title": "Nituation \u00e9conomique et sociale de la r\u00e9gion de diourbel ann\u00e9e 2009", 
+        "tracking_summary": {
+            "recent": 0, 
+            "total": 0
+        }, 
+        "type": null, 
+        "url": "http://www.ansd.sn/publications/annuelles/SES_Region/SES_Diourbel_2009.pdf", 
+        "version": ""
+    }, 
+    {
+        "author": "", 
+        "author_email": "", 
+        "ckan_url": "http://thedatahub.org/dataset/situation-conomique-et-sociale-de-la-r-gion-de-kolda-2007", 
+        "download_url": "http://www.ansd.sn/publications/annuelles/SES_Region/SES_Kolda_2007.pdf", 
+        "extras": {}, 
+        "groups": [
+            "country-sn"
+        ], 
+        "id": "87802709-e790-4052-837a-54684a5e8250", 
+        "isopen": false, 
+        "license": null, 
+        "license_id": "", 
+        "license_title": "", 
+        "maintainer": "", 
+        "maintainer_email": "", 
+        "metadata_created": "2013-03-28T21:39:07.218397", 
+        "metadata_modified": "2013-04-25T13:24:27.841986", 
+        "name": "situation-conomique-et-sociale-de-la-r-gion-de-kolda-2007", 
+        "notes": "", 
+        "notes_rendered": "", 
+        "ratings_average": null, 
+        "ratings_count": 0, 
+        "relationships": [], 
+        "resources": [
+            {
+                "cache_last_updated": null, 
+                "cache_url": "", 
+                "created": "2013-03-28T16:39:07.370024", 
+                "description": "", 
+                "format": "", 
+                "hash": "", 
+                "id": "d745f5e3-2377-44fc-86f6-886e9e3a7ba3", 
+                "last_modified": "2013-03-28T16:41:33.195266", 
+                "mimetype": "application/pdf", 
+                "mimetype_inner": "", 
+                "name": "", 
+                "package_id": "87802709-e790-4052-837a-54684a5e8250", 
+                "position": 0, 
+                "resource_group_id": "9f74f861-7b9f-46ac-9725-eb1a27c0cbe9", 
+                "resource_type": "", 
+                "size": "1754311", 
+                "tracking_summary": {
+                    "recent": 0, 
+                    "total": 0
+                }, 
+                "url": "http://www.ansd.sn/publications/annuelles/SES_Region/SES_Kolda_2007.pdf", 
+                "webstore_last_updated": null, 
+                "webstore_url": ""
+            }
+        ], 
+        "revision_id": "a1c4108d-4333-4f13-94ce-09012fb9ee93", 
+        "state": "active", 
+        "tags": [
+            "ANSD", 
+            "Senegal", 
+            "donnees", 
+            "kolda", 
+            "menages", 
+            "publications"
+        ], 
+        "title": "Situation \u00e9conomique et sociale de la r\u00e9gion de Kolda 2007", 
+        "tracking_summary": {
+            "recent": 0, 
+            "total": 0
+        }, 
+        "type": null, 
+        "url": "http://www.ansd.sn/publications/annuelles/SES_Region/SES_Kolda_2007.pdf", 
+        "version": ""
+    }, 
+    {
+        "author": "", 
+        "author_email": "", 
+        "ckan_url": "http://thedatahub.org/dataset/situation-conomique-et-sociale-de-la-r-gion-de-kolda-2008", 
+        "download_url": "http://www.ansd.sn/publications/annuelles/SES_Region/SES_Kolda_2008.pdf", 
+        "extras": {}, 
+        "groups": [
+            "country-sn"
+        ], 
+        "id": "606df0a2-0b65-4930-a6a1-37c1bfcb4e97", 
+        "isopen": false, 
+        "license": null, 
+        "license_id": "", 
+        "license_title": "", 
+        "maintainer": "", 
+        "maintainer_email": "", 
+        "metadata_created": "2013-03-28T21:39:04.889655", 
+        "metadata_modified": "2013-04-25T13:25:34.878446", 
+        "name": "situation-conomique-et-sociale-de-la-r-gion-de-kolda-2008", 
+        "notes": "", 
+        "notes_rendered": "", 
+        "ratings_average": null, 
+        "ratings_count": 0, 
+        "relationships": [], 
+        "resources": [
+            {
+                "cache_last_updated": null, 
+                "cache_url": "", 
+                "created": "2013-03-28T16:39:04.967544", 
+                "description": "", 
+                "format": "", 
+                "hash": "", 
+                "id": "b970cbd9-baa0-441e-903a-80140cfd80dc", 
+                "last_modified": "2013-03-28T16:41:29.210162", 
+                "mimetype": "application/pdf", 
+                "mimetype_inner": "", 
+                "name": "", 
+                "package_id": "606df0a2-0b65-4930-a6a1-37c1bfcb4e97", 
+                "position": 0, 
+                "resource_group_id": "2bb45c1b-9b21-4741-99a8-c4d8c8b1711c", 
+                "resource_type": "", 
+                "size": "4174277", 
+                "tracking_summary": {
+                    "recent": 0, 
+                    "total": 0
+                }, 
+                "url": "http://www.ansd.sn/publications/annuelles/SES_Region/SES_Kolda_2008.pdf", 
+                "webstore_last_updated": null, 
+                "webstore_url": ""
+            }
+        ], 
+        "revision_id": "8782d1f9-8a70-4dba-b32a-193fa4c55b86", 
+        "state": "active", 
+        "tags": [
+            "ANSD", 
+            "Senegal", 
+            "donnees", 
+            "kolda", 
+            "menages", 
+            "publications"
+        ], 
+        "title": "Situation \u00e9conomique et sociale de la r\u00e9gion de Kolda 2008", 
+        "tracking_summary": {
+            "recent": 0, 
+            "total": 0
+        }, 
+        "type": null, 
+        "url": "http://www.ansd.sn/publications/annuelles/SES_Region/SES_Kolda_2008.pdf", 
+        "version": ""
+    }, 
+    {
+        "author": "", 
+        "author_email": "", 
+        "ckan_url": "http://thedatahub.org/dataset/situation-conomique-et-sociale-de-la-r-gion-de-matam-2008", 
+        "download_url": "http://www.ansd.sn/publications/annuelles/SES_Region/SES_Matam_2008.pdf", 
+        "extras": {}, 
+        "groups": [
+            "country-sn"
+        ], 
+        "id": "c09de263-183f-4b46-9505-2cf696b3cecb", 
+        "isopen": false, 
+        "license": null, 
+        "license_id": "", 
+        "license_title": "", 
+        "maintainer": "", 
+        "maintainer_email": "", 
+        "metadata_created": "2013-03-28T21:39:43.404179", 
+        "metadata_modified": "2013-04-25T13:34:00.622639", 
+        "name": "situation-conomique-et-sociale-de-la-r-gion-de-matam-2008", 
+        "notes": "", 
+        "notes_rendered": "", 
+        "ratings_average": null, 
+        "ratings_count": 0, 
+        "relationships": [], 
+        "resources": [
+            {
+                "cache_last_updated": null, 
+                "cache_url": "", 
+                "created": "2013-03-28T16:39:44.538640", 
+                "description": "", 
+                "format": "", 
+                "hash": "", 
+                "id": "b3d1a772-6fba-475e-b674-2072fdcd748e", 
+                "last_modified": "2013-03-28T16:42:17.447152", 
+                "mimetype": "application/pdf", 
+                "mimetype_inner": "", 
+                "name": "", 
+                "package_id": "c09de263-183f-4b46-9505-2cf696b3cecb", 
+                "position": 0, 
+                "resource_group_id": "2db89875-55bc-42e2-ba62-d0ba47427901", 
+                "resource_type": "", 
+                "size": "2651504", 
+                "tracking_summary": {
+                    "recent": 0, 
+                    "total": 0
+                }, 
+                "url": "http://www.ansd.sn/publications/annuelles/SES_Region/SES_Matam_2008.pdf", 
+                "webstore_last_updated": null, 
+                "webstore_url": ""
+            }
+        ], 
+        "revision_id": "b91639b5-714a-4cc2-bd04-fec0415c3725", 
+        "state": "active", 
+        "tags": [
+            "ANSD", 
+            "Senegal", 
+            "donnees", 
+            "matam", 
+            "menages", 
+            "publications"
+        ], 
+        "title": "Situation \u00e9conomique et sociale de la r\u00e9gion de Matam 2008", 
+        "tracking_summary": {
+            "recent": 0, 
+            "total": 0
+        }, 
+        "type": null, 
+        "url": "http://www.ansd.sn/publications/annuelles/SES_Region/SES_Matam_2008.pdf", 
+        "version": ""
+    }, 
+    {
+        "author": "", 
+        "author_email": "", 
+        "ckan_url": "http://thedatahub.org/dataset/situation-conomique-et-sociale-de-la-r-gion-de-tambacounda-2007", 
+        "download_url": "http://www.ansd.sn/publications/annuelles/SES_Region/SES_Tamba_2007.pdf", 
+        "extras": {}, 
+        "groups": [
+            "country-sn"
+        ], 
+        "id": "567d04c6-a7f3-4e18-9587-cf9caa59821e", 
+        "isopen": false, 
+        "license": null, 
+        "license_id": "", 
+        "license_title": "", 
+        "maintainer": "", 
+        "maintainer_email": "", 
+        "metadata_created": "2013-03-28T21:40:41.808763", 
+        "metadata_modified": "2013-04-25T12:33:35.750496", 
+        "name": "situation-conomique-et-sociale-de-la-r-gion-de-tambacounda-2007", 
+        "notes": "", 
+        "notes_rendered": "", 
+        "ratings_average": null, 
+        "ratings_count": 0, 
+        "relationships": [], 
+        "resources": [
+            {
+                "cache_last_updated": null, 
+                "cache_url": "", 
+                "created": "2013-03-28T16:40:41.904772", 
+                "description": "", 
+                "format": "", 
+                "hash": "", 
+                "id": "f9edd158-1874-46c8-b15e-bab96558de47", 
+                "last_modified": "2013-03-28T16:43:09.449713", 
+                "mimetype": "application/pdf", 
+                "mimetype_inner": "", 
+                "name": "", 
+                "package_id": "567d04c6-a7f3-4e18-9587-cf9caa59821e", 
+                "position": 0, 
+                "resource_group_id": "3bbfcbee-76e6-4676-bf63-9c13275dcb3c", 
+                "resource_type": "", 
+                "size": "1498830", 
+                "tracking_summary": {
+                    "recent": 0, 
+                    "total": 0
+                }, 
+                "url": "http://www.ansd.sn/publications/annuelles/SES_Region/SES_Tamba_2007.pdf", 
+                "webstore_last_updated": null, 
+                "webstore_url": ""
+            }
+        ], 
+        "revision_id": "229d5bbf-cfe7-4743-a1ac-d42d92ab9abf", 
+        "state": "active", 
+        "tags": [
+            "ANSD", 
+            "Senegal", 
+            "donnees", 
+            "menages", 
+            "publications", 
+            "tambacounda"
+        ], 
+        "title": "Situation \u00e9conomique et sociale de la r\u00e9gion de Tambacounda 2007", 
+        "tracking_summary": {
+            "recent": 0, 
+            "total": 0
+        }, 
+        "type": null, 
+        "url": "http://www.ansd.sn/publications/annuelles/SES_Region/SES_Tamba_2007.pdf", 
+        "version": ""
+    }, 
+    {
+        "author": "", 
+        "author_email": "", 
+        "ckan_url": "http://thedatahub.org/dataset/situation-conomique-et-sociale-de-la-r-gion-de-thies-2009", 
+        "download_url": "http://www.ansd.sn/publications/annuelles/SES_Region/SES_Thies_2009.pdf", 
+        "extras": {}, 
+        "groups": [
+            "country-sn"
+        ], 
+        "id": "ae392cba-c698-4b55-8973-79468405c15f", 
+        "isopen": false, 
+        "license": null, 
+        "license_id": "", 
+        "license_title": "", 
+        "maintainer": "", 
+        "maintainer_email": "", 
+        "metadata_created": "2013-03-28T21:40:53.817174", 
+        "metadata_modified": "2013-04-25T12:39:10.596088", 
+        "name": "situation-conomique-et-sociale-de-la-r-gion-de-thies-2009", 
+        "notes": "", 
+        "notes_rendered": "", 
+        "ratings_average": null, 
+        "ratings_count": 0, 
+        "relationships": [], 
+        "resources": [
+            {
+                "cache_last_updated": null, 
+                "cache_url": "", 
+                "created": "2013-03-28T16:40:53.978744", 
+                "description": "", 
+                "format": "", 
+                "hash": "", 
+                "id": "1894054d-2f38-414e-8f45-46a72a37d7be", 
+                "last_modified": "2013-03-28T16:43:25.467314", 
+                "mimetype": "application/pdf", 
+                "mimetype_inner": "", 
+                "name": "", 
+                "package_id": "ae392cba-c698-4b55-8973-79468405c15f", 
+                "position": 0, 
+                "resource_group_id": "10d7e55f-9595-49c8-9787-a6d70c78e594", 
+                "resource_type": "", 
+                "size": "1713290", 
+                "tracking_summary": {
+                    "recent": 0, 
+                    "total": 0
+                }, 
+                "url": "http://www.ansd.sn/publications/annuelles/SES_Region/SES_Thies_2009.pdf", 
+                "webstore_last_updated": null, 
+                "webstore_url": ""
+            }
+        ], 
+        "revision_id": "53f9d54c-3dd7-46af-a930-e1828c409c83", 
+        "state": "active", 
+        "tags": [
+            "ANSD", 
+            "Senegal", 
+            "donnees", 
+            "menages", 
+            "publications", 
+            "thies"
+        ], 
+        "title": "Situation \u00e9conomique et sociale de la r\u00e9gion de Thies 2009", 
+        "tracking_summary": {
+            "recent": 0, 
+            "total": 0
+        }, 
+        "type": null, 
+        "url": "http://www.ansd.sn/publications/annuelles/SES_Region/SES_Thies_2009.pdf", 
+        "version": ""
+    }, 
+    {
+        "author": "", 
+        "author_email": "", 
+        "ckan_url": "http://thedatahub.org/dataset/situation-conomique-et-sociale-de-la-r-gion-de-ziguinchor-2010", 
+        "download_url": "http://www.ansd.sn/publications/annuelles/SES_Region/SES_Ziguinchor_2010.pdf", 
+        "extras": {}, 
+        "groups": [
+            "country-sn"
+        ], 
+        "id": "032fd173-95ee-44ec-ab1a-4f9f829f7b93", 
+        "isopen": false, 
+        "license": null, 
+        "license_id": "", 
+        "license_title": "", 
+        "maintainer": "", 
+        "maintainer_email": "", 
+        "metadata_created": "2013-03-28T21:41:14.405440", 
+        "metadata_modified": "2013-04-25T11:50:59.501591", 
+        "name": "situation-conomique-et-sociale-de-la-r-gion-de-ziguinchor-2010", 
+        "notes": "", 
+        "notes_rendered": "", 
+        "ratings_average": null, 
+        "ratings_count": 0, 
+        "relationships": [], 
+        "resources": [
+            {
+                "cache_last_updated": null, 
+                "cache_url": "", 
+                "created": "2013-03-28T16:41:14.524443", 
+                "description": "", 
+                "format": "", 
+                "hash": "", 
+                "id": "8be80069-c305-4b94-bf1b-0bb7bff81f02", 
+                "last_modified": "2013-03-28T16:43:49.448622", 
+                "mimetype": "application/pdf", 
+                "mimetype_inner": "", 
+                "name": "", 
+                "package_id": "032fd173-95ee-44ec-ab1a-4f9f829f7b93", 
+                "position": 0, 
+                "resource_group_id": "d13e0cf2-713b-40c2-9aae-8a50742c7f5c", 
+                "resource_type": "", 
+                "size": "2936505", 
+                "tracking_summary": {
+                    "recent": 0, 
+                    "total": 0
+                }, 
+                "url": "http://www.ansd.sn/publications/annuelles/SES_Region/SES_Ziguinchor_2010.pdf", 
+                "webstore_last_updated": null, 
+                "webstore_url": ""
+            }
+        ], 
+        "revision_id": "63217d82-7896-49bc-97b4-518e20e7c6cf", 
+        "state": "active", 
+        "tags": [
+            "ANSD", 
+            "Senegal", 
+            "Ziguinchor", 
+            "donnees", 
+            "menages", 
+            "publications"
+        ], 
+        "title": "Situation \u00e9conomique et sociale de la r\u00e9gion de Ziguinchor 2010", 
+        "tracking_summary": {
+            "recent": 0, 
+            "total": 0
+        }, 
+        "type": null, 
+        "url": "http://www.ansd.sn/publications/annuelles/SES_Region/SES_Ziguinchor_2010.pdf", 
+        "version": ""
+    }, 
+    {
+        "author": "", 
+        "author_email": "", 
+        "ckan_url": "http://thedatahub.org/dataset/indice-de-la-production-industrielle-premier-deuxi-me-2006", 
+        "download_url": "http://www.ansd.sn/publications/conjoncturelles/IHPI/trimestrielle/IPI_T2_2006.pdf", 
+        "extras": {}, 
+        "groups": [
+            "country-sn"
+        ], 
+        "id": "407185e4-2e6a-4735-952b-5efe2ac736c2", 
+        "isopen": false, 
+        "license": null, 
+        "license_id": "", 
+        "license_title": "", 
+        "maintainer": "", 
+        "maintainer_email": "", 
+        "metadata_created": "2013-03-28T21:47:39.394267", 
+        "metadata_modified": "2013-04-17T14:39:37.321508", 
+        "name": "indice-de-la-production-industrielle-premier-deuxi-me-2006", 
+        "notes": "REPUBLIQUE DU SENEGAL  MINISTERE DE L ECONOMIE  ET DES FINANCES  AGENCE NATIONALE DE LA STATISTIQUE  ET DE LA DEMOGRAPHIE              2\u00e8me  Trimestre 2006                                                  Lindice est publi\u00e9 au plus tard 45 jours apr\u00e8s  la fin du trimestre                                                                   ANSD/DSECN/BEPI \u00a9 Ao\u00fbt 2006  \fAGENCE NATIONALE DE LA STATISTIQUE  ET DE LA DEMOGRAPHIE             ANSD Babakar FALL         Directeur G\u00e9n\u00e9ral :    Coordonnateur des activit\u00e9s statistiques :  Division des Statistiques Economiques et de la Comptabilit\u00e9  Nationale :    Division des Enqu\u00eates D\u00e9mographiques et Sociales :  Division des Syst\u00e8mes dinformation :                                                                    El Hadj Malick  DIAME        Ibrahima SARR Bakary DJIBA Mback\u00e9 BA            Babakar FALL  Astou SAGNA Maxime NAGNONHOU Babacar DIOP  Sophie SENGHOR   EQUIPE DE REDACTION         Directeur de publication       Equipe de r\u00e9daction      Distribution          Rue 1 X Bd de l'est Point E BP116 DAKAR  Tel : (221) 824 03 01  1 \f", 
+        "notes_rendered": "<p>REPUBLIQUE DU SENEGAL  MINISTERE DE L ECONOMIE  ET DES FINANCES  AGENCE NATIONALE DE LA STATISTIQUE  ET DE LA DEMOGRAPHIE              2\u00e8me  Trimestre 2006                                                  Lindice est publi\u00e9 au plus tard 45 jours apr\u00e8s  la fin du trimestre                                                                   ANSD/DSECN/BEPI \u00a9 Ao\u00fbt 2006  \fAGENCE NATIONALE DE LA STATISTIQUE  ET DE LA DEMOGRAPHIE             ANSD Babakar FALL         Directeur G\u00e9n\u00e9ral :    Coordonnateur des activit\u00e9s statistiques :  Division des Statistiques Economiques et de la Comptabilit\u00e9  Nationale :    Division des Enqu\u00eates D\u00e9mographiques et Sociales :  Division des Syst\u00e8mes dinformation :                                                                    El Hadj Malick  DIAME        Ibrahima SARR Bakary DJIBA Mback\u00e9 BA            Babakar FALL  Astou SAGNA Maxime NAGNONHOU Babacar DIOP  Sophie SENGHOR   EQUIPE DE REDACTION         Directeur de publication       Equipe de r\u00e9daction      Distribution          Rue 1 X Bd de l'est Point E BP116 DAKAR  Tel : (221) 824 03 01  1 \f\n</p>", 
+        "ratings_average": null, 
+        "ratings_count": 0, 
+        "relationships": [], 
+        "resources": [
+            {
+                "cache_last_updated": null, 
+                "cache_url": "", 
+                "created": "2013-03-28T16:47:39.468521", 
+                "description": "", 
+                "format": "", 
+                "hash": "", 
+                "id": "46ffbdce-f4b0-40b8-9fd4-8c8d89b47132", 
+                "last_modified": "2013-03-28T16:50:10.294577", 
+                "mimetype": "application/pdf", 
+                "mimetype_inner": "", 
+                "name": "", 
+                "package_id": "407185e4-2e6a-4735-952b-5efe2ac736c2", 
+                "position": 0, 
+                "resource_group_id": "47fca815-18e5-4534-adda-d195a181eb50", 
+                "resource_type": "", 
+                "size": "543657", 
+                "tracking_summary": {
+                    "recent": 0, 
+                    "total": 0
+                }, 
+                "url": "http://www.ansd.sn/publications/conjoncturelles/IHPI/trimestrielle/IPI_T2_2006.pdf", 
+                "webstore_last_updated": null, 
+                "webstore_url": ""
+            }
+        ], 
+        "revision_id": "72328e67-569a-4ccd-a22b-e537e7d548cf", 
+        "state": "active", 
+        "tags": [
+            "ANSD", 
+            "Senegal", 
+            "donnees", 
+            "menages", 
+            "publications"
+        ], 
+        "title": "Indice de la production Industrielle Deuxi\u00e8me Trimestre 2006", 
+        "tracking_summary": {
+            "recent": 0, 
+            "total": 0
+        }, 
+        "type": null, 
+        "url": "http://www.ansd.sn/publications/conjoncturelles/IHPI/trimestrielle/IPI_T2_2006.pdf", 
+        "version": ""
+    }, 
+    {
+        "author": "", 
+        "author_email": "", 
+        "ckan_url": "http://thedatahub.org/dataset/indice-de-la-production-industrielle-quatri-me-2006", 
+        "download_url": "http://www.ansd.sn/publications/conjoncturelles/IHPI/trimestrielle/IPI_T4_2006.pdf", 
+        "extras": {}, 
+        "groups": [
+            "country-sn"
+        ], 
+        "id": "06ea763d-35f4-4e66-bc95-f92c31e3339f", 
+        "isopen": false, 
+        "license": null, 
+        "license_id": "", 
+        "license_title": "", 
+        "maintainer": "", 
+        "maintainer_email": "", 
+        "metadata_created": "2013-03-28T21:47:07.196549", 
+        "metadata_modified": "2013-04-17T14:53:46.127540", 
+        "name": "indice-de-la-production-industrielle-quatri-me-2006", 
+        "notes": " REPUBLIQUE DU SENEGAL  MINISTERE DE L ECONOMIE  ET DES FINANCES AGENCE NATIONALE DE LA STATISTIQUE   ET DE LA DEMOGRAPHIE  DIRECTION DES STATISTIQUES ECONOMIQUES  ET DE LA COMPTABILITE NATIONALE                                                                    4\u00e8me  Trimestre 2006 ANSD/DSECN/DSC/BEC \u00a9 F\u00e9vrier 2007 \fAGENCE NATIONALE DE LA STATISTIQUE  ET DE LA DEMOGRAPHIE        ANSD        Directeur G\u00e9n\u00e9ral :                                                                         Babakar FALL  Directeur G\u00e9n\u00e9ral  Adjoint :                                                          Mamadou Falou MBENGUE  Directeur des Statistiques Economiques  et de la Comptabilit\u00e9  Nationale :                                               Mamadou  Alhousseynou SARR  Chef de la Division des Statistiques Conjoncturelles :  R\u00e9dacteur :                                                           Collaborateurs : Yankhoba Jacques BADJI Maxime Bruno NAGNONHOU               Babacar DIOP Birama MBAYE              Point E,Rue de Diourbel x Rue de Saint Louis,BP116 Dakar T\u00e9l : (221) 824 03 01  1 \f", 
+        "notes_rendered": "<p> REPUBLIQUE DU SENEGAL  MINISTERE DE L ECONOMIE  ET DES FINANCES AGENCE NATIONALE DE LA STATISTIQUE   ET DE LA DEMOGRAPHIE  DIRECTION DES STATISTIQUES ECONOMIQUES  ET DE LA COMPTABILITE NATIONALE                                                                    4\u00e8me  Trimestre 2006 ANSD/DSECN/DSC/BEC \u00a9 F\u00e9vrier 2007 \fAGENCE NATIONALE DE LA STATISTIQUE  ET DE LA DEMOGRAPHIE        ANSD        Directeur G\u00e9n\u00e9ral :                                                                         Babakar FALL  Directeur G\u00e9n\u00e9ral  Adjoint :                                                          Mamadou Falou MBENGUE  Directeur des Statistiques Economiques  et de la Comptabilit\u00e9  Nationale :                                               Mamadou  Alhousseynou SARR  Chef de la Division des Statistiques Conjoncturelles :  R\u00e9dacteur :                                                           Collaborateurs : Yankhoba Jacques BADJI Maxime Bruno NAGNONHOU               Babacar DIOP Birama MBAYE              Point E,Rue de Diourbel x Rue de Saint Louis,BP116 Dakar T\u00e9l : (221) 824 03 01  1 \f\n</p>", 
+        "ratings_average": null, 
+        "ratings_count": 0, 
+        "relationships": [], 
+        "resources": [
+            {
+                "cache_last_updated": null, 
+                "cache_url": "", 
+                "created": "2013-03-28T16:47:07.288282", 
+                "description": "", 
+                "format": "", 
+                "hash": "", 
+                "id": "64e96436-7ef1-4437-b2f9-9cd401640d0d", 
+                "last_modified": "2013-03-28T16:49:10.263634", 
+                "mimetype": "application/pdf", 
+                "mimetype_inner": "", 
+                "name": "", 
+                "package_id": "06ea763d-35f4-4e66-bc95-f92c31e3339f", 
+                "position": 0, 
+                "resource_group_id": "8ca43099-e238-4eb8-8112-d1defe1250fa", 
+                "resource_type": "", 
+                "size": "421241", 
+                "tracking_summary": {
+                    "recent": 0, 
+                    "total": 0
+                }, 
+                "url": "http://www.ansd.sn/publications/conjoncturelles/IHPI/trimestrielle/IPI_T4_2006.pdf", 
+                "webstore_last_updated": null, 
+                "webstore_url": ""
+            }
+        ], 
+        "revision_id": "d5f9adcb-a493-4d7f-b00b-75f6f310cc14", 
+        "state": "active", 
+        "tags": [
+            "ANSD", 
+            "Senegal", 
+            "donnees", 
+            "menages", 
+            "publications"
+        ], 
+        "title": "Indice de la production Industrielle Quatri\u00e8me Trimestre 2006", 
+        "tracking_summary": {
+            "recent": 0, 
+            "total": 0
+        }, 
+        "type": null, 
+        "url": "http://www.ansd.sn/publications/conjoncturelles/IHPI/trimestrielle/IPI_T4_2006.pdf", 
+        "version": ""
+    }, 
+    {
+        "author": "", 
+        "author_email": "", 
+        "ckan_url": "http://thedatahub.org/dataset/indice-harmonis-de-la-production-industrielle-ihpi-premier-trimestre-2006", 
+        "download_url": "http://www.ansd.sn/publications/conjoncturelles/IHPI/trimestrielle/IPI T1 2006.pdf", 
+        "extras": {}, 
+        "groups": [
+            "country-sn"
+        ], 
+        "id": "8db0b627-d532-44ea-9344-4bc1921c8e8a", 
+        "isopen": false, 
+        "license": null, 
+        "license_id": "", 
+        "license_title": "", 
+        "maintainer": "", 
+        "maintainer_email": "", 
+        "metadata_created": "2013-04-03T21:18:26.084379", 
+        "metadata_modified": "2013-04-17T14:31:34.023571", 
+        "name": "indice-harmonis-de-la-production-industrielle-ihpi-premier-trimestre-2006", 
+        "notes": "REPUBLIQUE DU SENEGAL  MINISTERE DE L ECONOMIE  ET DES FINANCES  AGENCE NATIONALE DE LA STATISTIQUE  ET DE LA DEMOGRAPHIE              1er  Trimestre 2006                                                  Lindice est publi\u00e9 au plus tard 3 mois apr\u00e8s la fin du trimestre                                                                   ANSD/DSECN/BEPI \u00a9 Juin 2006  \fAGENCE NATIONALE DE LA STATISTIQUE  ET DE LA DEMOGRAPHIE             ANSD Babakar FALL         Directeur G\u00e9n\u00e9ral :    Coordonnateur des activit\u00e9s statistiques :  Division des Statistiques Economiques et de la Comptabilit\u00e9  Nationale :    Division des Enqu\u00eates D\u00e9mographiques et Sociales :  Division des Syst\u00e8mes dinformation :                                                                    El Hadj Malick  DIAME        Ibrahima SARR Bakary DJIBA Mback\u00e9 BA            Rue 1 X Bd de l'EST Point E BP116 DAKAR  Tel : (221) 824 03 01  1 EQUIPE DE REDACTION  Babakar FALL  Astou SAGNA Maxime NAGNONHOU Babacar DIOP  Sophie SENGHOR           Directeur de publication       Equipe de r\u00e9daction      Distribution         \f", 
+        "notes_rendered": "<p>REPUBLIQUE DU SENEGAL  MINISTERE DE L ECONOMIE  ET DES FINANCES  AGENCE NATIONALE DE LA STATISTIQUE  ET DE LA DEMOGRAPHIE              1er  Trimestre 2006                                                  Lindice est publi\u00e9 au plus tard 3 mois apr\u00e8s la fin du trimestre                                                                   ANSD/DSECN/BEPI \u00a9 Juin 2006  \fAGENCE NATIONALE DE LA STATISTIQUE  ET DE LA DEMOGRAPHIE             ANSD Babakar FALL         Directeur G\u00e9n\u00e9ral :    Coordonnateur des activit\u00e9s statistiques :  Division des Statistiques Economiques et de la Comptabilit\u00e9  Nationale :    Division des Enqu\u00eates D\u00e9mographiques et Sociales :  Division des Syst\u00e8mes dinformation :                                                                    El Hadj Malick  DIAME        Ibrahima SARR Bakary DJIBA Mback\u00e9 BA            Rue 1 X Bd de l'EST Point E BP116 DAKAR  Tel : (221) 824 03 01  1 EQUIPE DE REDACTION  Babakar FALL  Astou SAGNA Maxime NAGNONHOU Babacar DIOP  Sophie SENGHOR           Directeur de publication       Equipe de r\u00e9daction      Distribution         \f\n</p>", 
+        "ratings_average": null, 
+        "ratings_count": 0, 
+        "relationships": [], 
+        "resources": [
+            {
+                "cache_last_updated": null, 
+                "cache_url": "", 
+                "created": "2013-04-03T16:18:26.270615", 
+                "description": "", 
+                "format": "", 
+                "hash": "", 
+                "id": "734f623e-a40a-4f1a-ba0c-add542d17d17", 
+                "last_modified": "2013-04-03T16:18:27.677559", 
+                "mimetype": "application/pdf", 
+                "mimetype_inner": "", 
+                "name": "", 
+                "package_id": "8db0b627-d532-44ea-9344-4bc1921c8e8a", 
+                "position": 0, 
+                "resource_group_id": "53b20611-bd47-4fdb-8a82-793a2f0b5fd7", 
+                "resource_type": "", 
+                "size": "493155", 
+                "tracking_summary": {
+                    "recent": 0, 
+                    "total": 0
+                }, 
+                "url": "http://www.ansd.sn/publications/conjoncturelles/IHPI/trimestrielle/IPI T1 2006.pdf", 
+                "webstore_last_updated": null, 
+                "webstore_url": ""
+            }
+        ], 
+        "revision_id": "eba78fac-fb3e-46ab-b0ee-cb58a6fa28d5", 
+        "state": "active", 
+        "tags": [
+            "ANSD", 
+            "Senegal", 
+            "donnees", 
+            "menages", 
+            "publications"
+        ], 
+        "title": "Indice Harmonis\u00e9 de la Production Industrielle (IHPI) Premier Trimestre 2006", 
+        "tracking_summary": {
+            "recent": 0, 
+            "total": 0
+        }, 
+        "type": null, 
+        "url": "http://www.ansd.sn/publications/conjoncturelles/IHPI/trimestrielle/IPI T1 2006.pdf", 
+        "version": ""
+    }
+]
