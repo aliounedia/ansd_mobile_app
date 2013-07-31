@@ -16,6 +16,9 @@ urlpatterns = patterns('',
     # Uncomment the next line to enable the admin:
     # url(r'^admin/', include(admin.site.urls)),
 
+
+    (r'^$', views.search,
+         { 'template_name' :'index.html'}),
     (r'^search$', views.search,
          { 'template_name' :'search_ansd.html'}),
     (r'^group_search$', views.group_seach,
